@@ -5,7 +5,7 @@ http://str.yodacdn.net/azertv/index.m3u8
 https://live.itv.az/itv.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/9134.png"  group-title="Azerbaycan", ATV
 http://str.yodacdn.net/atv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X%C9%99z%C9%99r_TV_loqosu_%282023%29.png/1200px-X%C9%99z%C9%99r_TV_loqosu_%282023%29.png", Xəzər TV
+#EXTINF:-1 tvg-id="xezer"  tvg-logo="https://iptvx.one/picons/xezer.png", Xəzər TV
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2553.png" group-title="Azerbaycan", Space TV
