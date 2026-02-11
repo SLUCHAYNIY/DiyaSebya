@@ -84,13 +84,8 @@ https://cdn4.yayin.com.tr/rihattv/tracks-v1a1/mono.m3u8
 #EXTGRP:Azerbaycan
 http://blackaksari54.xyz:8080/Burak160125/JLWMEF74/563740
 #EXTINF:-1 tvg-logo="http://epg.one/img2/9128.png", ATV Cinema AZ
-http://qe7abbli.megatv.fun/iptv/PTW747LBU3TCMM/2120/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/9128.png", ATV Cinema AZ(rez-1)
 #EXTGRP:Azerbaycan
-http://qe7abbli.megatv.fun/iptv/PTW747LBU3TCMM/2120/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.one/img/9128.png",ATV CINEMA AZ(rez-2)
-#EXTGRP:Azerbaycan
-http://x3m.li/live/buk8YDg1/kXBoUb25/19726.m3u8
+https://raw.githubusercontent.com/dedmasteriptv/ATV-Cinema/refs/heads/main/ATVCinema.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWKX9dYw/Alvin-Channel-logo-1.png", Alvin Channel TV
 #EXTGRP:Azerbaycan
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
