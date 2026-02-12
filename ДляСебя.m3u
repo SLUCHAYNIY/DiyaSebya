@@ -306,7 +306,7 @@ https://raw.githubusercontent.com/dedmasteriptv/ATV-Cinema/refs/heads/main/Magic
 #EXTINF:-1 tvg-id="box-oscar-hd" tvg-logo="http://epg.one/img/6700.png" tvg-name="",BOX OSCAR HD
 #EXTGRP:Kino Action
 https://raw.githubusercontent.com/dedmasteriptv/ATV-Cinema/refs/heads/main/BoxOscar.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="8783" tvg-logo="http://epg.one/img/8783.png" tvg-name="",Z!Action HD
+#EXTINF:0 tvg-id="8783" tvg-logo="http://epg.one/img/8783.png" tvg-name="",Z!Action HD
 #EXTGRP:Kino Action
 https://raw.githubusercontent.com/dedmasteriptv/ATV-Cinema/refs/heads/main/Z_Action.m3u8
 
