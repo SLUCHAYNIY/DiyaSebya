@@ -94,13 +94,13 @@ http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0Z5jL1w/photo-5386795171908882253-m-removebg-preview.png", Alvin Ovcu TV
 #EXTGRP:Azerbaycan
 http://catcast.ismailturret.workers.dev/alvinovcu.m3u8
-#EXTINF:0 tvg-rec="0",Buglama[BY-Kerimoff]
+#EXTINF:0 tvg-rec="0",Buglama
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/by-kerimoff-buglama.m3u8
-#EXTINF:0 tvg-rec="0",Comedyxana[BY-Kerimoff]
+#EXTINF:0 tvg-rec="0",Comedyxana
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/by-kerimoff-comedyxana.m3u8
-#EXTINF:0 tvg-rec="0",AZ-Comedy[BY-Kerimoff]
+#EXTINF:0 tvg-rec="0",Az-Komedi
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/by-kerimoff-azcomedy.m3u8
 #EXTINF:-1,by-Vetendash A az
@@ -11271,76 +11271,6 @@ http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/20176/index.m3u8
 http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/20175/index.m3u8
 
 
-
-#EXTINF:0 group-title="📽️ КИНО И СЕРИАЛЫ" tvg-id="2020" tvg-logo="http://epg.it999.ru/img/2020.png" tvg-rec="7",Дом Кино Премиум HD
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/911/index.m3u8
-#EXTINF:0 group-title="📽️ КИНО И СЕРИАЛЫ" tvg-id="2768" tvg-logo="http://epg.it999.ru/img/2768.png" tvg-rec="3",Арсенал HD
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/5044/index.m3u8
-#EXTINF:0 group-title="📽️ КИНО И СЕРИАЛЫ" tvg-id="2447" tvg-logo="http://epg.it999.ru/img/2447.png" tvg-rec="3",Победа HD
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/5052/index.m3u8
-#EXTINF:0 group-title="📽️ КИНО И СЕРИАЛЫ" tvg-id="3361" tvg-logo="http://epg.it999.ru/img/3361.png" tvg-rec="3",Trash HD
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/6396/index.m3u8
-#EXTINF:0 group-title="📽️ КИНО И СЕРИАЛЫ" tvg-id="6643" tvg-logo="http://epg.it999.ru/img/6643.png" tvg-rec="0",Plan B HD
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/19249/index.m3u8
-#EXTINF:0 group-title="📽️ КИНО И СЕРИАЛЫ" tvg-id="53" tvg-logo="http://epg.it999.ru/img/53.png" tvg-rec="3",Русский Иллюзион HD
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/2114/index.m3u8
-#EXTINF:0 group-title="📽️ КИНО И СЕРИАЛЫ" tvg-id="1013" tvg-logo="http://epg.it999.ru/img/1013.png" tvg-rec="7",Viju+ Premiere HD
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/202/index.m3u8
-#EXTINF:0 group-title="📽️ КИНО И СЕРИАЛЫ" tvg-id="2838" tvg-logo="http://epg.it999.ru/img/2838.png" tvg-rec="3",Viju+ Serial HD
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/2443/index.m3u8
-#EXTINF:0 group-title="📽️ КИНО И СЕРИАЛЫ" tvg-id="127" tvg-logo="http://epg.it999.ru/img/127.png" tvg-rec="3",Viju TV1000 HD
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/6387/index.m3u8
-#EXTINF:0 group-title="📽️ КИНО И СЕРИАЛЫ" tvg-id="125" tvg-logo="http://epg.it999.ru/img/125.png" tvg-rec="3",Viju TV1000 Action HD
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/6386/index.m3u8 
-#EXTINF:0 group-title="📽️ КИНО И СЕРИАЛЫ" tvg-id="267" tvg-logo="http://epg.it999.ru/img/267.png" tvg-rec="0",Viju TV1000 Русское HD
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/6388/index.m3u8
-#EXTINF:0 group-title="📽️ КИНО И СЕРИАЛЫ" tvg-id="6241" tvg-logo="http://epg.it999.ru/img/6241.png" tvg-rec="0",START Air HD
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/18036/index.m3u8
-#EXTINF:0 group-title="📽️ КИНО И СЕРИАЛЫ" tvg-id="6240" tvg-logo="http://epg.it999.ru/img/6240.png" tvg-rec="0",START World HD
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/19248/index.m3u8
-#EXTINF:0 group-title="📽️ КИНО И СЕРИАЛЫ" tvg-id="7314" tvg-logo="http://epg.it999.ru/img/7314.png" tvg-rec="3",Кинеко HD
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/9135/index.m3u8
-#EXTINF:0 group-title="📽️ КИНО И СЕРИАЛЫ" tvg-id="7315" tvg-logo="http://epg.it999.ru/img/7315.png" tvg-rec="3",Сапфир HD
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/6389/index.m3u8
-#EXTINF:0 group-title="📽️ КИНО И СЕРИАЛЫ" tvg-id="1031" tvg-logo="http://epg.it999.ru/img/1031.png" tvg-rec="0",Fox HD
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/19216/index.m3u8
-#EXTINF:0 group-title="📽️ КИНО И СЕРИАЛЫ" tvg-id="401" tvg-logo="http://epg.it999.ru/img/401.png" tvg-rec="3",Русский роман HD
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/2076/index.m3u8
-#EXTINF:0 group-title="📽️ КИНО И СЕРИАЛЫ" tvg-id="2174" tvg-logo="http://epg.it999.ru/img/2174.png" tvg-rec="3",Дорама HD
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/2131/index.m3u8
-#EXTINF:0 group-title="📽️ КИНО И СЕРИАЛЫ" tvg-id="4662" tvg-logo="http://epg.it999.ru/img/4662.png" tvg-rec="7",Backus TV Dark HD
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/10061/index.m3u8
-#EXTINF:0 group-title="📽️ КИНО И СЕРИАЛЫ" tvg-id="4770" tvg-logo="http://epg.it999.ru/img/4770.png" tvg-rec="7",Backus TV Original HD 
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/11049/index.m3u8
-#EXTINF:0 group-title="📽️ КИНО И СЕРИАЛЫ" tvg-id="311" tvg-logo="http://epg.it999.ru/img/311.png" tvg-rec="3",.red HD
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/2062/index.m3u8
-#EXTINF:0 tvg-logo="https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-kuzbass-1.jpg",Кузбасс первый
-#EXTGRP:📽️ КИНО И СЕРИАЛЫ
-#EXTINF:0 group-title="📽️ КИНО И СЕРИАЛЫ" tvg-id="7905" tvg-logo="http://epg.it999.ru/img/7905.png" tvg-rec="0",Cobra Detektiv HD
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/20213/index.m3u8
-
-
-
-#EXTINF:0 group-title="☭ СССР" tvg-id="3357" tvg-logo="http://epg.it999.ru/img/3357.png" tvg-rec="0",Мосфильм. Золотая коллекция HD
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/7347/index.m3u8
-#EXTINF:0 group-title="☭ СССР" tvg-id="2509" tvg-logo="http://epg.it999.ru/img/2509.png" tvg-rec="3",Наше любимое HD
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/2106/index.m3u8
-#EXTINF:0 group-title="☭ СССР" tvg-id="5432" tvg-logo="http://epg.it999.ru/img/5432.png" tvg-rec="0",Dosug TV СССР HD
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/14218/index.m3u
-#EXTINF:0 group-title="☭ СССР" tvg-id="7158" tvg-logo="http://epg.it999.ru/img/7158.png" tvg-rec="0",Yosso TV Советские Фильмы 4K
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/19435/index.m3u8
-#EXTINF:0 group-title="☭ СССР" tvg-id="4747" tvg-logo="http://epg.it999.ru/img/4747.png" tvg-rec="7",BCU СССР HD
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/11026/index.m3u8
-#EXTINF:0 group-title="☭ СССР" tvg-id="5135" tvg-logo="http://epg.it999.ru/img/5135.png" tvg-rec="0",MM USSR Фантастика HD
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/13022/index.m3u8
-#EXTINF:0 group-title="☭ СССР" tvg-id="5117" tvg-logo="http://epg.it999.ru/img/5117.png" tvg-rec="0",TOP USSR HD
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/13005/index.m3u8
-#EXTINF:0 group-title="☭ СССР" tvg-id="4727" tvg-logo="http://epg.it999.ru/img/4727.png" tvg-rec="7",USSR
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/11102/index.m3u8
-#EXTINF:0 group-title="☭ СССР" tvg-id="5132" tvg-logo="http://epg.it999.ru/img/5132.png" tvg-rec="0",MM USSR Комедия HD
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/13019/index.m3u8
-
-
 #EXTINF:0 group-title="📺 4К (UltraHD)" tvg-id="2743" tvg-logo="http://epg.it999.ru/img/2743.png" tvg-rec="3",Ultra HD Cinema 4K
 http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/4000/index.m3u8
 #EXTINF:0 group-title="📺 4К (UltraHD)" tvg-id="2746" tvg-logo="http://epg.it999.ru/img/2746.png" tvg-rec="3",Наша Сибирь 4K
@@ -11383,10 +11313,6 @@ http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/20157/index.m3u8
 http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/20158/index.m3u8
 #EXTINF:0 group-title="📺 4К (UltraHD)" tvg-id="6138" tvg-logo="http://epg.it999.ru/img/6138.png" tvg-rec="0",Yosso TV 4K
 http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/16153/index.m3u8
-
-
-
-
 
 #EXTINF:0 group-title="👽 Фантастика" tvg-id="6856" tvg-logo="http://epg.it999.ru/img/6856.png" tvg-rec="0",Liberty Фан FHD
 http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/19403/index.m3u8
@@ -13279,23 +13205,6 @@ http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/20176/index.m3u8
 
 #EXTINF:0 group-title="📺 Кинозал" tvg-id="7896" tvg-logo="http://epg.it999.ru/img/7896.png" tvg-rec="0",VB Назад в СССР HD
 http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/20175/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
