@@ -272,7 +272,7 @@ https://v2.catcast.tv/content/50265/seg-25409976-v1-a1/index.m3u8
 #EXTINF:-1,Music Tv Az
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50359/seg-25555275-v1-a1/index.m3u8
-#EXTINF:-1,ALVIN Music
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/26092020/banners/39199-5f6f8f433735d.png",ALVIN Music
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/39199/seg-25409987-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/debb1b49-4809-413b-8418-6c176181a1d6.png", AzStar
@@ -299,9 +299,6 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gune
 #EXTINF:-1,Masa ve Ayi
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50171/seg-25409844-v1-a1/index.m3u8
-#EXTINF:-1,TOM and JERRY
-#EXTGRP:Azerbaycan
-https://live20.bozztv.comgiatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/9130.png", ATV Vivace AZ
 #EXTGRP:Azerbaycan
 http://qe7abbli.megatv.fun/iptv/PTW747LBU3TCMM/16068/index.m3u8
