@@ -58,7 +58,7 @@ http://str.yodacdn.net/qafkaz/tracks-v1a1/mono.ts.m3u8
 http://cdn-stv.yayin.com.tr/stv/stv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGN8RtQC/In-Shot-20250209-192718561.png", İsmayıllı TV
 #EXTGRP:Azerbaycan
-https://a8.radyotelekom.com.tr:3738/stream/play.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/azerbaycan55555/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cRxhxdA.png", ŞİRVAN TV
 #EXTGRP:Azerbaycan
 https://a8.radyotelekom.com.tr/p/3326/hybrid/play.m3u8
@@ -81,10 +81,10 @@ https://rtmp.showplus.tv/hls/myshow.m3u8
 #EXTGRP:Azerbaycan
 https://cdn4.yayin.com.tr/rihattv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydy7DCw5/1762835780517.png"  group-title="Azerbaycan", HTV sinema
-http://blackaksari54.xyz:8080/Burak160125/JLWMEF74/563779
+https://a8.radyotelekom.com.tr:3761/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/158M5w7V/1768336784567.png", kanal 65
 #EXTGRP:Azerbaycan
-http://blackaksari54.xyz:8080/Burak160125/JLWMEF74/563740
+https://a8.radyotelekom.com.tr:3063/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/9128.png", ATV Cinema AZ
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/dedmasteriptv/ATV-Cinema/refs/heads/main/ATVCinema.m3u8
@@ -327,6 +327,10 @@ https://cdn-sonumidtv.yayin.com.tr/sonumidtv/sonumidtv/chunklist_w2128397060.m3u
 #EXTINF:0 tvg-logo="https://i.postimg.cc/tJRmj6vV/In-Shot-20250209-204833425.png", ZAHRA TV
 #EXTGRP:Azerbaycan
 https://ak.imamhussein.live/alzahratvlive/alzahra.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png", Sirius
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
+
 
 #EXTINF:-1 tvg-id="cineman-action" tvg-logo="http://epg.one/img/4684.png" tvg-name="",CINEMAN ACTION
 #EXTGRP:Kino Action
