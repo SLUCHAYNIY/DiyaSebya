@@ -1585,6 +1585,57 @@ https://v2.catcast.tv/content/42167/seg-25550646-v1-a1/index.m3u8
 #EXTGRP:RUS
 https://v2.catcast.tv/content/37452/seg-25549925-v1-a1/index.m3u8
 
+#EXTINF:-1,Наше Мужское Кино
+#EXTGRP:Cinerama.uz
+https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
+#EXTGRP:Cinerama.uz
+#EXTINF:-1,Родное Кино
+https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
+#EXTGRP:Cinerama.uz
+#EXTINF:-1,Дом Кино
+https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
+#EXTGRP:Cinerama.uz
+#EXTINF:-1,КиноХит
+https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
+#EXTGRP:Cinerama.uz
+#EXTINF:-1,Кинопоказ
+https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
+#EXTGRP:Cinerama.uz
+#EXTINF:-1,ViJu TV 1000
+https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
+#EXTGRP:Cinerama.uz
+#EXTINF:-1,ViJu TV 1000 Рксское
+https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
+#EXTGRP:Cinerama.uz
+#EXTINF:-1,Индийское Кино
+https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
+#EXTGRP:Cinerama.uz
+#EXTINF:-1,Киносвидание
+https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
+#EXTGRP:Cinerama.uz
+#EXTINF:-1,ТедеКафе
+https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
+#EXTGRP:Cinerama.uz
+#EXTINF:-1,ViJu TV 1000 Action
+https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
+#EXTGRP:Cinerama.uz
+#EXTINF:-1,Cinema tv
+https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
+#EXTGRP:Cinerama.uz
+#EXTINF:-1,КиноКомедия
+https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8
+#EXTGRP:Cinerama.uz
+#EXTINF:-1,Киномикс
+https://stream8.cinerama.uz/1233/tracks-v1a1/mono.m3u8
+#EXTGRP:Cinerama.uz
+#EXTINF:-1,КиноСемья
+https://stream8.cinerama.uz/1234/tracks-v1a1/mono.m3u8
+#EXTGRP:Cinerama.uz
+#EXTINF:-1,КиноСерия
+https://stream8.cinerama.uz/1235/tracks-v1a1/mono.m3u8
+#EXTGRP:Cinerama.uz
+#EXTINF:-1,Мужское Кино
+https://stream8.cinerama.uz/1237/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="cineman-action" tvg-logo="http://epg.one/img/4684.png" tvg-name="",CINEMAN ACTION
 #EXTGRP:Kino Action
