@@ -227,6 +227,9 @@ https://v2.catcast.tv/content/50732/seg-25825626-v1-a1/index.m3u8
 #EXTINF:-1 tvg-name="PlayerCinema PREMIUM 2"tvg-logo="",PlayerCinema PREMIUM 2
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50740/seg-25825653-v1-a1/index.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema CONTINENTAL"tvg-logo="",PlayerCinema CONTINENTAL
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50679/seg-25825808-v1-a1/index.m3u8
 #EXTINF:-1 tvg-name="PlayerCinema JOHN WICK HD"tvg-logo="",PlayerCinema JOHN WICK HD
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50733/seg-25825669-v1-a1/index.m3u8
