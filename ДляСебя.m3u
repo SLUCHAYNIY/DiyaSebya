@@ -233,6 +233,18 @@ https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerC
 #EXTINF:-1 tvg-name="PlayerCinema TERMINATOR"tvg-logo="",PlayerCinema TERMINATOR
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_TERMINATOR.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema IP MAN"tvg-logo="",PlayerCinema IP MAN
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_IP-MAN.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema JET LEE"tvg-logo="",PlayerCinema JET LEE
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_JET-LEE.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema GODZILLA"tvg-logo="",PlayerCinema GODZILLA
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_GODZILLA.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema MAYMUNLAR"tvg-logo="",PlayerCinema MAYMUNLAR
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_MAYMUNLAR.m3u8
 #EXTINF:-1 tvg-name="PlayerCinema Hind Filmleri"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f71e0813ac.png",PlayerCinema Hind Filmleri
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinemaHindFilmleri.m3u8
