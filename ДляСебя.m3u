@@ -378,6 +378,9 @@ https://catcast.ismailturret.workers.dev/rihattv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uxZicm7.png", S TV
 #EXTGRP:Azerbaycan
 https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
+#EXTINF:-1,tvg-logo="https://img.catcast.tv/uploads/14012026/banners/50294-696794fda8784.png",STV AZ
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50294/seg-25902977-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://knmusictv.com/wp-content/themes/tmbtvaz/img/tmbtv.png"  group-title="Azerbaycan", KN music box
 https://cdn4.yayin.com.tr/kntv/video.m3u8
 #EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2957.png"  group-title="Azerbaycan", Könül music
