@@ -53,7 +53,10 @@ https://live.eltv.az/live/eltv/chunklist_w1920626794.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SxR28nX0/Qafqaz-TV-2017-h-h.png", Qafqaz TV
 #EXTGRP:Azerbaycan
 http://str.yodacdn.net/qafkaz/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fr0eFRT.png", TV 36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xgsAXgV.png", S TV sinema
+#EXTGRP:Azerbaycan
+https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jTmp4fC.png", TV36 AZ
 #EXTGRP:Azerbaycan
 http://cdn-stv.yayin.com.tr/stv/stv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGN8RtQC/In-Shot-20250209-192718561.png", İsmayıllı TV
@@ -375,9 +378,6 @@ https://v2.catcast.tv/content/48302/seg-25410932-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/10092025/banners/48076-68c1c541356ea.png",EKRAN85
 #EXTGRP:Azerbaycan
 https://catcast.ismailturret.workers.dev/rihattv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uxZicm7.png", S TV
-#EXTGRP:Azerbaycan
-https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
 #EXTINF:-1,tvg-logo="https://img.catcast.tv/uploads/14012026/banners/50294-696794fda8784.png",STV AZ
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50294/seg-25902977-v1-a1/index.m3u8
@@ -473,7 +473,10 @@ https://v2.catcast.tv/content/50547/seg-25649149-v1-a1/index.m3u8
 https://v2.catcast.tv/content/50544/seg-25649132-v1-a1/index.m3u8
 #EXTINF:-1,TOM and JERRY
 #EXTGRP:Azerbaycan
-https://live20.bozztv.comgiatvplayout7/giatv-208314/playlist.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1,TOM and JERRY 2
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/43075/seg-25410727-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/9130.png", ATV Vivace AZ
 #EXTGRP:Azerbaycan
 http://qe7abbli.megatv.fun/iptv/PTW747LBU3TCMM/16068/index.m3u8
