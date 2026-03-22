@@ -109,6 +109,9 @@ https://v2.catcast.tv/content/48695/seg-25460342-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/saban-tv.png",Şaban tv
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50543/seg-25649090-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/10042025/logos/14862-67f7da5a4db6c.png",Komedi Turk
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/48591/seg-25410428-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VkdXZ2VX/In-Shot-20260216-091910542.png",Az Film
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50545/seg-25649109-v1-a1/index.m3u8
@@ -121,15 +124,21 @@ https://v2.catcast.tv/content/50852/seg-25938055-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-bozbash-production
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50854/seg-25938027-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-Yesilcam
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50168/seg-25410189-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",Hababam tv
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50271/seg-25410477-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png", Buğlama tv
 #EXTGRP:Azerbaycan
-https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/by-kerimoff-buglama.m3u8
+https://v2.catcast.tv/content/50170/seg-25409947-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png", Komedixana tv
 #EXTGRP:Azerbaycan
-https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/by-kerimoff-comedyxana.m3u8
+https://v2.catcast.tv/content/50172/seg-25409926-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png", AZkomedi tv
 #EXTGRP:Azerbaycan
-https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/by-kerimoff-azcomedy.m3u8
+https://v2.catcast.tv/content/50271/seg-25410155-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",Vetendash_A az
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50250/seg-25410296-v1-a1/index.m3u8
@@ -429,10 +438,10 @@ https://v2.catcast.tv/content/47437/seg-25409996-v1-a1/index.m3u8
 https://v2.catcast.tv/content/50851/seg-25938065-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",Mugam dunyamiz
 #EXTGRP:Azerbaycan
-https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/b-kerimoff-Mugam-dunyamiz.m3u8
+https://v2.catcast.tv/content/50179/seg-25410331-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",Solo Konsert
 #EXTGRP:Azerbaycan
-https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/by_kerimoff_solo_konsert.m3u8
+https://v2.catcast.tv/content/50178/seg-25410254-v1-a1/index.m3u8
 #EXTINF:-1tvg-logo="https://i.postimg.cc/nrKjK27R/In-Shot-20250214-113847550.png" ,NOW Music tv az
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/48110/seg-25410036-v1-a1/index.m3u8
@@ -482,15 +491,16 @@ http://qe7abbli.megatv.fun/iptv/PTW747LBU3TCMM/16042/index.m3u8
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/26022026/logos/27146-69a07881100d5.png",BalacanTV
-#EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50634/seg-25745099-v1-a1/index.m3u8
-#EXTINF:-1,Masa ve Ayi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",Masa ve Ayi
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50171/seg-25409844-v1-a1/index.m3u8
-#EXTINF:-1,Az mult
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-Keloglan
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50198/seg-25410305-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",Az mult
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50547/seg-25649149-v1-a1/index.m3u8
-#EXTINF:-1,MR.BEAN az
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",MR.BEAN az
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50544/seg-25649132-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0NBNhsH/In-Shot-20250929-203142405.png",TOM and JERRY
