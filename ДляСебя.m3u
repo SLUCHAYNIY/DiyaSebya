@@ -491,6 +491,8 @@ http://qe7abbli.megatv.fun/iptv/PTW747LBU3TCMM/16042/index.m3u8
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/26022026/logos/27146-69a07881100d5.png",BalacanTV
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50634/seg-25745099-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",Masa ve Ayi
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50171/seg-25409844-v1-a1/index.m3u8
@@ -503,6 +505,8 @@ https://v2.catcast.tv/content/50547/seg-25649149-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",MR.BEAN az
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50544/seg-25649132-v1-a1/index.m3u8
+#EXTINF:-1,Sinema Masha i medved
+https://v2.catcast.tv/content/37549/seg-25411703-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0NBNhsH/In-Shot-20250929-203142405.png",TOM and JERRY
 #EXTGRP:Azerbaycan
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
