@@ -408,10 +408,10 @@ https://cdn4.yayin.com.tr/kntv/video.m3u8
 https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXQ8b7b4/icon.png"  group-title="Azerbaycan", Ayaz TV
 https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
-#EXTINF:-1 tvg-logo="https://mahnitv.az/images/logo.png",MAHNI TV
+#EXTINF:-1 https://img.freeflagicons.com/thumb/music_icon/azerbaijan/azerbaijan_640.pnghttps://mahnitv.az/images/logo.png",MAHNI TV
 #EXTGRP:Azerbaycan
 http://xantv.site:41480/MahniTV/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ro0HPDJ.png", AZ Music HD
+#EXTINF:-1 tvg-logo="https://img.freeflagicons.com/thumb/music_icon/azerbaijan/azerbaijan_640.png", AZ Music HD
 #EXTGRP:Azerbaycan
 https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJbFG4MH/In-Shot-20250209-195400220.png",Azerbaijan Music Plus
@@ -419,7 +419,7 @@ https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
 https://cdn4.yayin.com.tr/baltvmusic/video.m3u8
 #EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2556.png"  group-title="Azerbaycan", Music AZ HIT
 https://cdn4.yayin.com.tr/musicazhit/video.m3u8
-#EXTINF:-1,Russian Music
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/tild6532-3636-4163-a164-353430643662/RMP_LOGO_BLACK.png",Russian Music
 #EXTGRP:Azerbaycan
 https://cdn-4musicrussia.yayin.com.tr/4musicrussia/4musicrussia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6prVYgqM/tmbtaz-png.png"  group-title="Azerbaycan", TMB TV
@@ -427,7 +427,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 #EXTINF:-1 tvg-id="VostokTV.ru" tvg-logo="https://i.imgur.com/X1RysL8.png" tvg-name="Восток ТВ" group-title="Azerbaycan",Vostok TV [720x576]
 #EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
 http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
-#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/12072024/banners/47437-669061dfa8088.png",KANAL 65 Music
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DySv6ZKX/In-Shot-20251019-100938269.png",MEGA TV Music
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/megatvaz.m3u8
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/12072024/banners/47437-669061dfa8088.png",KANAL 65 Music original
@@ -475,7 +475,7 @@ http://live.azstartv.com/azstar/azstar_720p/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cBDyLJJ/In-Shot-20250209-204416916.png", MTV Azerbaycan
 #EXTGRP:Azerbaycan
 http://str.yodacdn.net/mtvaz/index.m3u8
-#EXTINF:-1,Hind Music
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/416/406/png-transparent-remix-music-disc-jockey-song-typo-miscellaneous-music-video-flower-thumbnail.png",Hind Music
 #EXTGRP:Azerbaycan
 https://fl1001.bozztv.com/ushba-t4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5Cr0Zxt/Kanal-35-loqo.png", Kanal 35
@@ -505,7 +505,7 @@ https://v2.catcast.tv/content/50547/seg-25649149-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",MR.BEAN az
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50544/seg-25649132-v1-a1/index.m3u8
-#EXTINF:-1,Sinema Masha i medved
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/843/693/png-transparent-masha-and-the-bear-illustration-masha-and-the-bear-stuffed-animals-cuddly-toys-animation-television-show-masha-and-the-bear-television-child-animals-thumbnail.png",Sinema Masha i medved
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/37549/seg-25411703-v1-a1/index.m3u8
 #EXTINF:-1  tvg-id="no_epg_mult"  tvg-logo="https://avatars.mds.yandex.net/get-ott/239697/2a00000173b9e6c0ae818f3aba1aaa8891ca/960x540" ,Чип и Дейл HD
@@ -514,7 +514,7 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1  tvg-id="no_epg_mult"  tvg-logo="https://images-s.kinorium.com/movie/logo/578724/h280_51498408.png" ,Маша и Медведь
 #EXTGRP:Azerbaycan
 https://glb.bozztv.com/glb/ushba79/index.m3u8
-#EXTINF:-1  tvg-logo="http://1lot.tv/ch/8115.png" ,ЕРАЛАШ SD
+#EXTINF:-1  tvg-logo="http://1lot.tv/ch/8115.png" ,ЕРАЛАШ SD 
 #EXTGRP:Azerbaycan
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0NBNhsH/In-Shot-20250929-203142405.png",TOM and JERRY
@@ -535,9 +535,10 @@ http://185.32.44.154/sehiyye/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2636.png", CBC Sport
 #EXTGRP:Azerbaycan
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
-#EXTINF:-1 group-title="Azerbaycan", Idman tv(yoda.az)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/%C4%B0dman_TV_logo.png",Idman tv(yoda.az)
+#EXTGRP:Azerbaycan
 https://str2.yodacdn.net/idmantele/mono.ts.m3u8
-#EXTINF:-1 tvg-id="WestAzerbaijanTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/2/21/Urmia_TV.svg/250px-Urmia_TV.svg.png",Azerbaijan Gharbi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/2/21/Urmia_TV.svg/250px-Urmia_TV.svg.png",Azerbaijan Gharbi
 #EXTGRP:Azerbaycan
 https://lenz.splus.ir/PLTV/88888888/224/3221226800/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYd9RVqF/In-Shot-20250209-195931309.png",Son Umid TV
