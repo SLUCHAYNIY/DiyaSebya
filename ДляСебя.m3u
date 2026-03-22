@@ -408,10 +408,10 @@ https://cdn4.yayin.com.tr/kntv/video.m3u8
 https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXQ8b7b4/icon.png"  group-title="Azerbaycan", Ayaz TV
 https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
-#EXTINF:-1 https://img.freeflagicons.com/thumb/music_icon/azerbaijan/azerbaijan_640.pnghttps://mahnitv.az/images/logo.png",MAHNI TV
+#EXTINF:-1 tvg-logo="https://mahnitv.az/images/logo.png",MAHNI TV
 #EXTGRP:Azerbaycan
 http://xantv.site:41480/MahniTV/video.m3u8
-#EXTINF:-1 tvg-logo="https://img.freeflagicons.com/thumb/music_icon/azerbaijan/azerbaijan_640.png", AZ Music HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ro0HPDJ.png", AZ Music HD
 #EXTGRP:Azerbaycan
 https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJbFG4MH/In-Shot-20250209-195400220.png",Azerbaijan Music Plus
@@ -457,7 +457,7 @@ https://catcast.ismailturret.workers.dev/bayzan-hits.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9MWGr1rn/In-Shot-20260209-105343609.png",Ulduz Music az
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50265/seg-25409976-v1-a1/index.m3u8
-#EXTINF:-1,Music Tv Az
+#EXTINF:-1 tvg-logo="https://img.freeflagicons.com/thumb/music_icon/azerbaijan/azerbaijan_640.png",Music Tv Az
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50359/seg-25555275-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/21012026/banners/50312-697110c9cedd5.png",ELA MUSIC turk
@@ -514,7 +514,7 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1  tvg-id="no_epg_mult"  tvg-logo="https://images-s.kinorium.com/movie/logo/578724/h280_51498408.png" ,Маша и Медведь
 #EXTGRP:Azerbaycan
 https://glb.bozztv.com/glb/ushba79/index.m3u8
-#EXTINF:-1  tvg-logo="http://1lot.tv/ch/8115.png" ,ЕРАЛАШ SD 
+#EXTINF:-1  tvg-logo="https://foni.papik.pro/uploads/posts/2024-10/thumbs/foni-papik-pro-bmt2-p-kartinki-yeralash-na-prozrachnom-fone-3.png" ,ЕРАЛАШ SD 
 #EXTGRP:Azerbaycan
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0NBNhsH/In-Shot-20250929-203142405.png",TOM and JERRY
