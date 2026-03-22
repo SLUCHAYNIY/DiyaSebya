@@ -514,9 +514,6 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1  tvg-id="no_epg_mult"  tvg-logo="https://images-s.kinorium.com/movie/logo/578724/h280_51498408.png" ,Маша и Медведь
 #EXTGRP:Azerbaycan
 https://glb.bozztv.com/glb/ushba79/index.m3u8
-#EXTINF:-1  tvg-logo="https://foni.papik.pro/uploads/posts/2024-10/thumbs/foni-papik-pro-bmt2-p-kartinki-yeralash-na-prozrachnom-fone-3.png" ,ЕРАЛАШ SD 
-#EXTGRP:Azerbaycan
-https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0NBNhsH/In-Shot-20250929-203142405.png",TOM and JERRY
 #EXTGRP:Azerbaycan
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
