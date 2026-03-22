@@ -97,6 +97,9 @@ http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0Z5jL1w/photo-5386795171908882253-m-removebg-preview.png", Alvin Ovcu TV
 #EXTGRP:Azerbaycan
 http://catcast.ismailturret.workers.dev/alvinovcu.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hArNy1Q.png",MR.BEAN
+#EXTGRP:Azerbaycan
+https://fl1001.bozztv.com/ushba45/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hArNy1Q.png", mr.bean
 #EXTGRP:Azerbaycan
 https://catcast.ismailturret.workers.dev/mrbean.m3u8
