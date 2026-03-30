@@ -124,9 +124,12 @@ https://v2.catcast.tv/content/48591/seg-25410428-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VkdXZ2VX/In-Shot-20260216-091910542.png",Az Film
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50545/seg-25649109-v1-a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkdXZ2VX/In-Shot-20260216-091910542.png",SIRIUS TV AZ film
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png",SIRIUS TV AZ film
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50904/seg-26002688-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-Horror
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50920/seg-26011954-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-hind-filmleri
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50901/seg-25997429-v1-a1/index.m3u8
@@ -487,6 +490,9 @@ https://v2.catcast.tv/content/47437/seg-25409996-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-Slow Musiqiler
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50851/seg-25938065-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-Meyxana-tv
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50921/seg-26011934-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",Mugam dunyamiz
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50179/seg-25410331-v1-a1/index.m3u8
@@ -547,6 +553,9 @@ https://v2.catcast.tv/content/50634/seg-25745099-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",Masa ve Ayi
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50171/seg-25409844-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-animasyon
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50919/seg-26011967-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-Keloglan
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50198/seg-25410305-v1-a1/index.m3u8
