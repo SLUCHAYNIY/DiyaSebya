@@ -38,6 +38,8 @@ https://str.yodacdn.net/apatv/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hU0AnaL.png", ses tv
 #EXTGRP:Azerbaycan
 http://145.239.37.125:20458/maksimtv/maksimtv/chunklist_w1215296059.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTCb4jcy/logo.png" group-title="Azerbaycan",TV MUSAVAT 
+https://stream.musavat.tv/tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCbpbW00/Gunaz-tv-svg.png", GünAz TV
 #EXTGRP:Azerbaycan
 https://tv.gunaz.tv/hls/live.m3u8
@@ -498,6 +500,9 @@ https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerH
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGN8RtQC/In-Shot-20250209-192718561.png", İsmayıllı TV music
 #EXTGRP:Azerbaycan
 https://a8.radyotelekom.com.tr:3533/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rQH7RJf.png", NEOplay AZ
+#EXTGRP:Azerbaycan
+https://a8.radyotelekom.com.tr:3674/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8IdzWtT.png", Rihat TV music
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/48302/seg-25410932-v1-a1/index.m3u8
@@ -655,17 +660,19 @@ https://lenz.splus.ir/PLTV/88888888/224/3221226800/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYd9RVqF/In-Shot-20250209-195931309.png",Son Umid TV
 #EXTGRP:Azerbaycan
 https://cdn-sonumidtv.yayin.com.tr/sonumidtv/sonumidtv/chunklist_w2128397060.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqNdMwTt/In-Shot-20250502-204654847.png" group-title="Azerbaycan",KANAL 12 ᵏᵃᵑᵏᵃ
+https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/tJRmj6vV/In-Shot-20250209-204833425.png", ZAHRA TV
 #EXTGRP:Azerbaycan
 https://ak.imamhussein.live/alzahratvlive/alzahra.smil/playlist.m3u8
+
+
 #EXTINF:-1,SDM Sinema keyfi
 #EXTGRP:TURK(URL)
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,KUZEYMAX 
 #EXTGRP:TURK(URL)
 http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/10042025/logos/14862-67f7da5a4db6c.png",Komedi Turk
 #EXTGRP:TURK(URL)
 https://v2.catcast.tv/content/48591/seg-25410428-v1-a1/index.m3u8
