@@ -88,36 +88,99 @@ http://blackaksari54.xyz:8080/Burak160125/JLWMEF74/563740
 http://blackaksari54.xyz:8080/Burak160125/JLWMEF74/563769
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydy7DCw5/1762835780517.png"  group-title="Azerbaycan", HTV sinema
 http://blackaksari54.xyz:8080/Burak160125/JLWMEF74/563779
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/158M5w7V/1768336784567.png", kanal 65
-#EXTGRP:Azerbaycan
-http://blackaksari54.xyz:8080/Burak160125/JLWMEF74/563740
 #EXTINF:-1 tvg-logo="http://epg.one/img2/9128.png", ATV Cinema AZ
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/dedmasteriptv/ATV-Cinema/refs/heads/main/ATVCinema.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png", Sirius
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wFpA0zL.png", Rihat TV
 #EXTGRP:Azerbaycan
 https://cdn4.yayin.com.tr/rihattv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWKX9dYw/Alvin-Channel-logo-1.png", Alvin Channel TV
 #EXTGRP:Azerbaycan
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0Z5jL1w/photo-5386795171908882253-m-removebg-preview.png", Alvin Ovcu TV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhRtHJf.png", YANSIMA SİNEMA HDᵀᴿ
 #EXTGRP:Azerbaycan
-http://catcast.ismailturret.workers.dev/alvinovcu.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-belgesel
+https://live20.bozztv.com/akamaissh101/ssh101/ysmtvmedya/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/946924681/YANSIMA_TV2.gif", YANSIMA SİNEMA 2 HDᵀᴿ
 #EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50903/seg-26002713-v1-a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-kend-heyati
+https://live20.bozztv.com/akamaissh101/ssh101/teber9/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KpSSF4g.png", YANSIMA music
 #EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50907/seg-26004854-v1-a1/index.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/ymmusictv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLhBkdx.png", cine 1
+#EXTGRP:Azerbaycan
+https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8
+#EXTINF:-1,TE tv
+#EXTGRP:Azerbaycan
+https://host.onlineradyotv.net:8081/tetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yWcGNHj.png", Pati tvᵀᴿ
+#EXTGRP:Azerbaycan
+http://104.238.23.182/d/live/out.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yWcGNHj.png", Pati tv2ᵀᴿ
+#EXTGRP:Azerbaycan
+http://5.178.103.239:55/d/live/out.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VAG8ZQ5.png", SDM TVᵀᴿ
+#EXTGRP:Azerbaycan
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFWP1V8B/1757188084827.png", Play TVᵀᴿ
+#EXTGRP:Azerbaycan
+https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U3IjbqP.png",  ISVIÇRE TVᵀᴿ
+#EXTGRP:Azerbaycan
+https://i41.ozelip.com:3269/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjChc8vs/logo-31.png", Deniz posdasıᵀᴿ
+#EXTGRP:Azerbaycan
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WKERCaA.png", Boncuk tvᵀᴿ
+#EXTGRP:Azerbaycan
+http://104.238.23.221/BoncukTV/live/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn.zerocdn.com/946912491/HILAL_1.gif" TV1,HİLAL1
+#EXTGRP:Azerbaycan
+https://live20.bozztv.com/akamaissh101/ssh101/teber1/playlist.m3u8
+#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn.zerocdn.com/945822855/TEBER_STAR.gif" TV1,TEBER STAR
+#EXTGRP:Azerbaycan
+https://live20.bozztv.com/akamaissh101/ssh101/teber2/playlist.m3u8
+#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn.zerocdn.com/946451985/CEVIK_TV.gif" TV3,ÇEVİK TV
+#EXTGRP:Azerbaycan
+https://live20.bozztv.com/akamaissh101/ssh101/teber3/playlist.m3u8
+#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn.zerocdn.com/945142912/AKTIF_TV.gif" TV2,TEBER AKTİF TV
+#EXTGRP:Azerbaycan
+https://live20.bozztv.com/akamaissh101/ssh101/teber4/playlist.m3u8
+#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn.zerocdn.com/934617747/HBB_TV.gif" TV5,HBB TV 
+#EXTGRP:Azerbaycan
+https://live20.bozztv.com/akamaissh101/ssh101/teber5/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://cdn.zerocdn.com/945826337/YER_6.gif" TV6,YER 6 
+#EXTGRP:Azerbaycan
+https://live20.bozztv.com/akamaissh101/ssh101/teber6/playlist.m3u8
+#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn.zerocdn.com/945822806/TEBER_MEGA.gif" TV7,TEBER MEGA TV
+#EXTGRP:Azerbaycan
+https://live20.bozztv.com/akamaissh101/ssh101/teber7/playlist.m3u8
+#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn.zerocdn.com/934619452/TEBER_ON.gif" TV8,TEBER_ON
+#EXTGRP:Azerbaycan
+https://live20.bozztv.com/akamaissh101/ssh101/teber8/playlist.m3u8
+#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn.zerocdn.com/934617766/KRAL_TEBER.png" TV9,TEBER KRAL TV 
+https://catcast.ismailturret.workers.dev/50457.m3u8
+#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn.zerocdn.com/945828294/TEBER_FLASH.gif" TV10,TEBER FLASH TV 
+#EXTGRP:Azerbaycan
+https://live20.bozztv.com/akamaissh101/ssh101/teber10/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/jd93RQZk/In-Shot-20251113-181935459.png" group-title="Azerbaycan",SpecialBox Efsane 1 ᵏᵃᵑᵏᵃ
+http://boxserver.live:8080/live/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96568.ts
+#EXTINF:0 tvg-logo="https://i.postimg.cc/jd93RQZk/In-Shot-20251113-181935459.png" group-title="Azerbaycan",SpecialBox Efsane 2 ᵏᵃᵑᵏᵃ
+http://boxserver.live:8080/live/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96569.ts
+#EXTINF:0 tvg-logo="https://i.postimg.cc/jd93RQZk/In-Shot-20251113-181935459.png" group-title="Azerbaycan",SpecialBox Efsane 3 ᵏᵃᵑᵏᵃ
+http://boxserver.live:8080/live/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96570.ts
+#EXTINF:0 tvg-logo="https://i.postimg.cc/jd93RQZk/In-Shot-20251113-181935459.png" group-title="Azerbaycan",SpecialBox Efsane 4 ᵏᵃᵑᵏᵃ
+http://boxserver.live:8080/live/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96571.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hArNy1Q.png",MR.BEAN
 #EXTGRP:Azerbaycan
 https://live20.bozztv.com/giatvplayout7/ushba45/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hArNy1Q.png", mr.bean
 #EXTGRP:Azerbaycan
-https://catcast.ismailturret.workers.dev/mrbean.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png", Sirius
-#EXTGRP:Azerbaycan
-https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
+https://v2.catcast.tv/content/39349/seg-25410752-v1-a1/index.m3u8
 #EXTINF:-1 tvg-name="MEGA Saban"tvg-logo="https://img.catcast.tv/uploads/04062025/banners/48695-683f783bd2ce8.png",MEGA Saban
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/48695/seg-25460342-v1-a1/index.m3u8
@@ -175,6 +238,15 @@ https://v2.catcast.tv/content/50271/seg-25410155-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",Vetendash_A az
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50250/seg-25410296-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-belgesel
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50903/seg-26002713-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-kend-heyati
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50907/seg-26004854-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0Z5jL1w/photo-5386795171908882253-m-removebg-preview.png", Alvin Ovcu TV
+#EXTGRP:Azerbaycan
+http://catcast.ismailturret.workers.dev/alvinovcu.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhRtHJf.png", YANSIMA SİNEMA HDᵀᴿ
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50817/seg-25893931-v1-a1/index.m3u8
@@ -193,73 +265,7 @@ https://v2.catcast.tv/content/50694/seg-25886798-v1-a1/index.m3u8
 #EXTINF:-1,FimBOX Çocuk
 #EXTGRP:Azerbaycan
 https://catcast.ismailturret.workers.dev/50879.m3u8
-#EXTINF:-1,TE tv
-#EXTGRP:Azerbaycan
-https://host.onlineradyotv.net:8081/tetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yWcGNHj.png", Pati tvᵀᴿ
-#EXTGRP:Azerbaycan
-http://104.238.23.182/d/live/out.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yWcGNHj.png", Pati tv2ᵀᴿ
-#EXTGRP:Azerbaycan
-http://5.178.103.239:55/d/live/out.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VAG8ZQ5.png", SDM TVᵀᴿ
-#EXTGRP:Azerbaycan
-https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFWP1V8B/1757188084827.png", Play TVᵀᴿ
-#EXTGRP:Azerbaycan
-https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ifc3mK7.png", NEXTstream turkᵀᴿ
-#EXTGRP:Azerbaycan
-https://gecicisifresizyayinda.nextstream.workers.dev/stream/nextstreamturk.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U3IjbqP.png",  ISVIÇRE TVᵀᴿ
-#EXTGRP:Azerbaycan
-https://i41.ozelip.com:3269/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WKERCaA.png", Boncuk tvᵀᴿ
-#EXTGRP:Azerbaycan
-http://104.238.23.221/BoncukTV/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/934620828/TEBER_STAR1.gif",TEBER STAR1
-#EXTGRP:Azerbaycan
-https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar1.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/934620882/TEBER_STAR2.gif",TEBER STAR2
-#EXTGRP:Azerbaycan
-https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar2.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/938228997/YESILCAM_STAR.gif",GALA STAR
-#EXTGRP:Azerbaycan
-https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar3.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/935828290/TEBER_FLASH.gif",TEBER FLASH TV eğlence
-#EXTGRP:Azerbaycan
-https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar4.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/934617747/HBB_TV.gif",HBB TV
-#EXTGRP:Azerbaycan
-https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar5.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/934619440/STAR6.gif",DENİZ 6
-#EXTGRP:Azerbaycan
-https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar6.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/934617844/PLANET_AXION.gif",EHLİBEYT STAR
-#EXTGRP:Azerbaycan
-https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar7.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/934619430/STAR_SAFARI.gif",TEBER STAR SAFARİ
-#EXTGRP:Azerbaycan
-https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar8.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/937077356/Kanal9.gif",KANAL9 çocuk
-#EXTGRP:Azerbaycan
-https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar9.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/934619452/TEBER_ON.gif",TEBER_ON
-#EXTGRP:Azerbaycan
-https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar10.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/941244312/TEBER_NOSTALJI.gif",TEBER NOSTALJİ TV
-#EXTGRP:Azerbaycan
-https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar11.m3u8
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/01042026/banners/50938-69cd8303c4840.png",Fanatik Max Dag
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50761/seg-25886725-v1-a1/index.m3u8
