@@ -1475,7 +1475,16 @@ https://raw.githubusercontent.com/dedmasteriptv/ATV-Cinema/refs/heads/main/BoxOs
 #EXTGRP:Kino Action
 https://raw.githubusercontent.com/dedmasteriptv/ATV-Cinema/refs/heads/main/Z_Action.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kemal Sunal 1" group-title="ŞABAN",(TR) Kemal Sunal 1
+http://nxtbox.uk:80/onurYagci/q2nz3S5/127947
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kemal Sunal 2" group-title="ŞABAN",(TR) Kemal Sunal 2
+http://nxtbox.uk:80/onurYagci/q2nz3S5/127948
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kemal Sunal 3" group-title="ŞABAN",(TR) Kemal Sunal 3
+http://nxtbox.uk:80/onurYagci/q2nz3S5/127949
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kemal Sunal 4" group-title="ŞABAN",(TR) Kemal Sunal 4
+http://nxtbox.uk:80/onurYagci/q2nz3S5/127950
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kemal Sunal 5" group-title="ŞABAN",(TR) Kemal Sunal 5
+http://nxtbox.uk:80/onurYagci/q2nz3S5/128905
 #EXTINF:-1 tvg-id="" tvg-name="[TR] KEMAL SUNAL 1 ғʜᴅ" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/YESILCAM/KEMAL.SUNAL.1.png" group-title="ŞABAN",[TR] KEMAL SUNAL 1 ғʜᴅ
 http://xsoft25.online:8080/Burcu1985/sFCwMaC3DX/6325
 #EXTINF:-1 tvg-id="" tvg-name="[TR] KEMAL SUNAL 2 ғʜᴅ" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/YESILCAM/KEMAL.SUNAL.2.png" group-title="ŞABAN",[TR] KEMAL SUNAL 2 ғʜᴅ
@@ -1488,6 +1497,7 @@ http://xsoft25.online:8080/Burcu1985/sFCwMaC3DX/6318
 http://xsoft25.online:8080/Burcu1985/sFCwMaC3DX/23578
 #EXTINF:-1 tvg-id="" tvg-name="[TR] ZEKI & METIN ғʜᴅ" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/YESILCAM/ZEKI.METIN.png" group-title="ŞABAN",[TR] ZEKI & METIN ғʜᴅ
 http://xsoft25.online:8080/Burcu1985/sFCwMaC3DX/6320
+
 #EXTINF:-1 group-title="ŞABAN"  tvg-id""                        tvg-logo="https://www.sdmtv.com.tr/images/sdm-tv-300x109.png"                                      ,SDM FILM TV
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ŞABAN"  tvg-id""                        tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/"                                     ,RIZE Türk
