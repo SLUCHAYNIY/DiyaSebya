@@ -101,6 +101,9 @@ https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_outpu
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SBhSXwk/Cine5tv.jpg",CINE5 TV
 #EXTGRP:Azerbaycan
 http://b7453.ant07.art/live/aktas.xxx/14102022xyx/170295.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qpfuy53.png,Cine+Yesilcam
+#EXTGRP:Azerbaycan
+http://cineplusyesilcam.streams-supersatforum.workers.dev/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhRtHJf.png", YANSIMA SİNEMA HDᵀᴿ
 #EXTGRP:Azerbaycan
 https://live20.bozztv.com/akamaissh101/ssh101/ysmtvmedya/playlist.m3u8
