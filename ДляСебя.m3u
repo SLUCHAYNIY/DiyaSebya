@@ -849,6 +849,570 @@ https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerM
 #EXTGRP:PLAYER TV (DedMaster)
 https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerHindMusic.m3u8
 
+#EXTM3U
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Россия-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png" group-title="СУНДУК ТВ",Россия 1
+http://tmptv.sunduk.tv/CH3/index.m3u8
+#EXTINF:-1 tvg-id="ChannelOne.ru" tvg-name="Первый канал" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="СУНДУК ТВ",Первый канал
+http://tmptv.sunduk.tv/CH1/index.m3u8
+#EXTINF:-1 tvg-id="ChannelOne.ru" tvg-name="Первый канал" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="СУНДУК ТВ",Первый канал HD
+http://tmptv.sunduk.tv/CH125/index.m3u8
+#EXTINF:-1 tvg-id="NTV.ru" tvg-name="НТВ" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="СУНДУК ТВ",НТВ
+http://tmptv.sunduk.tv/CH7/index.m3u8
+#EXTINF:-1 tvg-id="Channel5.ru" tvg-name="Пятый канал" tvg-logo="https://i.imgur.com/KPXMa3U.png" group-title="СУНДУК ТВ",5 канал
+http://tmptv.sunduk.tv/CH283/index.m3u8
+#EXTINF:-1 tvg-id="STS.ru" tvg-name="СТС" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="СУНДУК ТВ",СТС
+http://tmptv.sunduk.tv/CH15/index.m3u8
+#EXTINF:-1 tvg-id="RENTV.ru" tvg-name="РЕН ТВ" tvg-logo="https://i.imgur.com/0Tu5lte.png" group-title="СУНДУК ТВ",Рен ТВ
+http://tmptv.sunduk.tv/CH13/index.m3u8
+#EXTINF:-1 tvg-id="TNT.ru" tvg-name="ТНТ" tvg-logo="https://i.imgur.com/T4A6rEI.png" group-title="СУНДУК ТВ",ТНТ
+http://tmptv.sunduk.tv/CH11/index.m3u8
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Звезда" tvg-logo="https://i.imgur.com/4PAcpfM.png" group-title="СУНДУК ТВ",Звезда
+http://tmptv.sunduk.tv/CH285/index.m3u8
+#EXTINF:-1 tvg-id="Friday.ru" tvg-name="Пятница!" tvg-logo="https://i.imgur.com/UfmlXxe.png" group-title="СУНДУК ТВ",Пятница!
+http://tmptv.sunduk.tv/CH17/index.m3u8
+#EXTINF:-1 tvg-id="TVCentr.ru" tvg-name="ТВ Центр" tvg-logo="https://i.imgur.com/fIkd01t.png" group-title="СУНДУК ТВ",ТВ Центр
+http://tmptv.sunduk.tv/CH5/index.m3u8
+#EXTINF:-1 tvg-id="Mir.ru" tvg-name="Мир" tvg-logo="https://i.imgur.com/Murt4NK.png" group-title="СУНДУК ТВ",Мир [
+http://tmptv.sunduk.tv/CH201/index.m3u8
+#EXTINF:-1 tvg-id="T24.ru" tvg-name="Т24" tvg-logo="https://i.imgur.com/uHR6Zkq.png" group-title="СУНДУК ТВ",Т24
+http://tmptv.sunduk.tv/CH173/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Россия-24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png" group-title="СУНДУК ТВ",Россия 24
+http://tmptv.sunduk.tv/CH85/index.m3u8
+#EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="РБК" tvg-logo="https://i.imgur.com/CwhmJby.png" group-title="СУНДУК ТВ",РБК ТВ
+http://tmptv.sunduk.tv/CH59/index.m3u8
+#EXTINF:-1 tvg-id="RTVi.ru" tvg-name="RTVI" tvg-logo="https://i.imgur.com/1AEhXyS.png" group-title="СУНДУК ТВ",RTVI
+http://tmptv.sunduk.tv/CH541/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-name="Euronews по-русски" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="СУНДУК ТВ",EuroNews
+http://tmptv.sunduk.tv/CH31/index.m3u8
+#EXTINF:-1 tvg-id="TVRain.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/512px-Tvrain.svg.png" group-title="СУНДУК ТВ",Дождь (СМИ-иноагент)
+http://tmptv.sunduk.tv/CH251/index.m3u8
+#EXTINF:-1 tvg-id="Mult.ru" tvg-name="Мульт" tvg-logo="https://i.imgur.com/xi351Fx.png" group-title="СУНДУК ТВ",Мульт
+http://tmptv.sunduk.tv/CH319/index.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.uk" tvg-name="Cartoonito" tvg-logo="https://i.imgur.com/B29D2s1.png" group-title="СУНДУК ТВ",Cartoonito
+http://tmptv.sunduk.tv/CH443/index.m3u8
+#EXTINF:-1 tvg-id="GulliGirl.ru" tvg-name="Gulli Girl" tvg-logo="https://i.imgur.com/lbViDuC.png" group-title="СУНДУК ТВ",Gulli Girl
+http://tmptv.sunduk.tv/CH347/index.m3u8
+#EXTINF:-1 tvg-name="JimJam" tvg-logo="https://i.imgur.com/ODhkYyx.png" group-title="СУНДУК ТВ",JimJam
+http://tmptv.sunduk.tv/CH277/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.ru" tvg-name="Nickelodeon Россия" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="СУНДУК ТВ",Nickelodeon
+http://tmptv.sunduk.tv/CH37/index.m3u8
+#EXTINF:-1 tvg-id="TiJi.ru" tvg-name="TiJi" tvg-logo="https://i.imgur.com/QCOUJ30.png" group-title="СУНДУК ТВ",TiJi
+http://tmptv.sunduk.tv/CH349/index.m3u8
+#EXTINF:-1 tvg-id="Vgostyakhuskazki.ru" tvg-name="В гостях у сказки" tvg-logo="https://i.imgur.com/jNJkLHl.png" group-title="СУНДУК ТВ",В гостях у сказки
+http://tmptv.sunduk.tv/CH309/index.m3u8
+#EXTINF:-1 tvg-id="Detskimir.ru" tvg-name="Детский мир" tvg-logo="https://i.imgur.com/bBVEP0S.png" group-title="СУНДУК ТВ",Детский Мир
+http://tmptv.sunduk.tv/CH35/index.m3u8
+#EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Карусель" tvg-logo="https://i.imgur.com/4wmnx1W.png" group-title="СУНДУК ТВ",Карусель
+http://tmptv.sunduk.tv/CH69/index.m3u8
+#EXTINF:-1 tvg-id="Mama.ru" tvg-name="Мама" tvg-logo="https://i.imgur.com/8o8QHOz.png" group-title="СУНДУК ТВ",Мама
+http://tmptv.sunduk.tv/CH155/index.m3u8
+#EXTINF:-1 tvg-id="Multilandia.ru" tvg-name="Мультиландия" tvg-logo="https://i.imgur.com/ccwijY0.png" group-title="СУНДУК ТВ",Мультиландия
+http://tmptv.sunduk.tv/CH197/index.m3u8
+#EXTINF:-1 tvg-id="O.ru" tvg-name="О!" tvg-logo="https://i.imgur.com/pDc665V.png" group-title="СУНДУК ТВ",О!
+http://tmptv.sunduk.tv/CH297/index.m3u8
+#EXTINF:-1 tvg-id="STSkids.ru" tvg-name="СТС Kids" tvg-logo="https://i.imgur.com/o9kLpAL.png" group-title="СУНДУК ТВ",СТС Kids
+http://tmptv.sunduk.tv/CH729/index.m3u8
+#EXTINF:-1 tvg-id="Solnce.ru" tvg-name="Солнце" tvg-logo="https://i.imgur.com/rec9akk.png" group-title="СУНДУК ТВ",Солнце
+http://tmptv.sunduk.tv/CH99/index.m3u8
+#EXTINF:-1 tvg-id="SuperGeroi.ru" tvg-name="СуперГерои" tvg-logo="https://i.imgur.com/c0zZUR1.png" group-title="СУНДУК ТВ",Супер Герои
+http://tmptv.sunduk.tv/CH877/index.m3u8
+#EXTINF:-1 tvg-id="Unikum.ru" tvg-name="Уникум" tvg-logo="https://i.imgur.com/kSJZjDL.png" group-title="СУНДУК ТВ",Уникум
+http://tmptv.sunduk.tv/CH167/index.m3u8
+#EXTINF:-1 tvg-id="red.ru" tvg-name=".red" tvg-logo="https://i.imgur.com/GET9Qut.png" group-title="СУНДУК ТВ",.red
+http://tmptv.sunduk.tv/CH147/index.m3u8
+#EXTINF:-1 tvg-id="red.ru" tvg-name=".red" tvg-logo="https://i.imgur.com/GET9Qut.png" group-title="СУНДУК ТВ",.red HD
+http://tmptv.sunduk.tv/CH453/index.m3u8
+#EXTINF:-1 tvg-id="scifi.ru" tvg-name=".sci-fi" tvg-logo="https://i.imgur.com/nSSUHcg.png" group-title="СУНДУК ТВ",.sci-fi
+http://tmptv.sunduk.tv/CH175/index.m3u8
+#EXTINF:-1 tvg-id="A2.ru" tvg-name="А2" tvg-logo="https://i.imgur.com/NqHla2V.png" group-title="СУНДУК ТВ",Amedia 2
+http://tmptv.sunduk.tv/CH411/index.m3u8
+#EXTINF:-1 tvg-id="AmediaHit.ru" tvg-name="Amedia Hit" tvg-logo="https://i.imgur.com/a8ZBGBw.png" group-title="СУНДУК ТВ",Amedia Hit
+http://tmptv.sunduk.tv/CH763/index.m3u8
+#EXTINF:-1 tvg-id="AmediaHit.ru" tvg-name="Amedia Hit" tvg-logo="https://i.imgur.com/a8ZBGBw.png" group-title="СУНДУК ТВ",Amedia Hit HD
+http://tmptv.sunduk.tv/CH3887/index.m3u8
+#EXTINF:-1 tvg-id="AmediaPremium.ru" tvg-name="Amedia Premium" tvg-logo="https://i.imgur.com/UUjehw9.png" group-title="СУНДУК ТВ",Amedia Premium HD
+http://tmptv.sunduk.tv/CH301/index.m3u8
+#EXTINF:-1 tvg-id="Cinema.ru" tvg-name="Cinema" tvg-logo="https://i.imgur.com/sP15Oc9.png" group-title="СУНДУК ТВ",Cinema
+http://tmptv.sunduk.tv/CH355/index.m3u8
+#EXTINF:-1 tvg-id="Fox.ru" tvg-name="FOX" tvg-logo="https://i.imgur.com/nr1Y67Z.png" group-title="СУНДУК ТВ",FOX
+http://tmptv.sunduk.tv/CH161/index.m3u8
+#EXTINF:-1 tvg-id="FoxLife.ru" tvg-name="Fox Life" tvg-logo="https://i.imgur.com/O2miSLA.png" group-title="СУНДУК ТВ",Fox Life
+http://tmptv.sunduk.tv/CH159/index.m3u8
+#EXTINF:-1 tvg-id="HollywoodHD.ru" tvg-logo="https://i.imgur.com/7fBRrTL.png" group-title="СУНДУК ТВ",HollywooD HD
+http://tmptv.sunduk.tv/CH291/index.m3u8
+#EXTINF:-1 tvg-id="ShotTV.ru" tvg-name="Shot TV" tvg-logo="https://i.imgur.com/MLSG7tA.png" group-title="СУНДУК ТВ",Shot TV
+http://tmptv.sunduk.tv/CH249/index.m3u8
+#EXTINF:-1 tvg-id="vijuTV1000.ru" tvg-name="viju TV1000" tvg-logo="https://i.imgur.com/ZMsyjSr.png" group-title="СУНДУК ТВ",viju TV1000
+http://tmptv.sunduk.tv/CH141/index.m3u8
+#EXTINF:-1 tvg-id="vijuTV1000.ru" tvg-name="viju TV1000" tvg-logo="https://i.imgur.com/ZMsyjSr.png" group-title="СУНДУК ТВ",viju TV1000 HD
+http://tmptv.sunduk.tv/CH3869/index.m3u8
+#EXTINF:-1 tvg-id="vijuTV1000action.ru" tvg-name="TV1000 Action East" tvg-logo="https://i.imgur.com/TMmyuzh.png" group-title="СУНДУК ТВ",viju TV1000 Action
+http://tmptv.sunduk.tv/CH143/index.m3u8
+#EXTINF:-1 tvg-id="vijuTV1000action.ru" tvg-name="TV1000 Action East" tvg-logo="https://i.imgur.com/TMmyuzh.png" group-title="СУНДУК ТВ",viju TV1000 Action HD
+http://tmptv.sunduk.tv/CH3867/index.m3u8
+#EXTINF:-1 tvg-id="vijuTV1000russkoe.ru" tvg-name="viju TV1000 русское" tvg-logo="https://i.imgur.com/Meak2y4.png" group-title="СУНДУК ТВ",viju TV1000 Русское
+http://tmptv.sunduk.tv/CH139/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusComedy.ru" tvg-name="ViP Comedy" tvg-logo="https://i.imgur.com/YoNOFu7.png" group-title="СУНДУК ТВ",viju+ Comedy HD
+http://tmptv.sunduk.tv/CH311/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusMegahit.ru" tvg-name="TV1000 Megahit" tvg-logo="https://i.imgur.com/oIQNddV.png" group-title="СУНДУК ТВ",viju+ Megahit HD
+http://tmptv.sunduk.tv/CH313/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusPremiere.ru" tvg-name="ViP Premiere" tvg-logo="https://i.imgur.com/klRvhR5.png" group-title="СУНДУК ТВ",viju+ Premiere HD
+http://tmptv.sunduk.tv/CH315/index.m3u8
+#EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Дом кино" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/512px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" group-title="СУНДУК ТВ",Дом Кино
+http://tmptv.sunduk.tv/CH73/index.m3u8
+#EXTINF:-1 tvg-id="Evrokino.ru" tvg-name="Еврокино" tvg-logo="https://i.imgur.com/8LPtPf6.png" group-title="СУНДУК ТВ",Еврокино
+http://tmptv.sunduk.tv/CH163/index.m3u8
+#EXTINF:-1 tvg-id="IllusionPlus.ru" tvg-name="Иллюзион+" tvg-logo="https://i.imgur.com/9GvuHQ5.png" group-title="СУНДУК ТВ",Иллюзион+
+http://tmptv.sunduk.tv/CH323/index.m3u8
+#EXTINF:-1 tvg-id="IndiyskoyeKino.ru" tvg-name="Индийское кино" tvg-logo="https://i.imgur.com/LL8GyCh.png" group-title="СУНДУК ТВ",Индийское кино
+http://tmptv.sunduk.tv/CH107/index.m3u8
+#EXTINF:-1 tvg-id="KapitanFantastika.ru" tvg-name="Капитан Фантастика" tvg-logo="https://i.imgur.com/K3PSHiT.png" group-title="СУНДУК ТВ",Капитан Фантастика HD
+http://tmptv.sunduk.tv/CH561/index.m3u8
+#EXTINF:-1 tvg-id="KinoTV.ru" tvg-name="Кино ТВ" tvg-logo="https://i.imgur.com/L01RjKe.png" group-title="СУНДУК ТВ",Кино ТВ HD
+http://tmptv.sunduk.tv/CH559/index.m3u8
+#EXTINF:-1 tvg-id="Kinohit.ru" tvg-logo="https://i.imgur.com/Ge8vkQM.png" group-title="СУНДУК ТВ",КиноХит HD
+http://tmptv.sunduk.tv/CH3881/index.m3u8
+#EXTINF:-1 tvg-id="Kinohit.ru" tvg-logo="https://i.imgur.com/Ge8vkQM.png" group-title="СУНДУК ТВ",КиноХит
+http://tmptv.sunduk.tv/CH57/index.m3u8
+#EXTINF:-1 tvg-id="Kinokomedija.ru" tvg-name="Кинокомедия" tvg-logo="https://i.imgur.com/1Z9VTM6.png" group-title="СУНДУК ТВ",Кинокомедия
+http://tmptv.sunduk.tv/CH47/index.m3u8
+#EXTINF:-1 tvg-id="Kinomix.ru" tvg-name="Киномикс" tvg-logo="https://i.imgur.com/OGUMa1A.png" group-title="СУНДУК ТВ",Киномикс HD
+http://tmptv.sunduk.tv/CH3873/index.m3u8
+#EXTINF:-1 tvg-id="Kinomix.ru" tvg-name="Киномикс" tvg-logo="https://i.imgur.com/OGUMa1A.png" group-title="СУНДУК ТВ",Киномикс
+http://tmptv.sunduk.tv/CH279/index.m3u8
+#EXTINF:-1 tvg-id="Kinopokaz.ru" tvg-name="Кинопоказ" tvg-logo="https://i.imgur.com/nNjMyAq.png" group-title="СУНДУК ТВ",Кинопоказ
+http://tmptv.sunduk.tv/CH215/index.m3u8
+#EXTINF:-1 tvg-id="Kinopremyera.ru" tvg-name="Кинопремьера" tvg-logo="https://i.imgur.com/lgvOVxm.png" group-title="СУНДУК ТВ",Кинопремьера HD
+http://tmptv.sunduk.tv/CH299/index.m3u8
+#EXTINF:-1 tvg-id="Kinosvidanie.ru" tvg-name="Киносвидание" tvg-logo="https://i.imgur.com/ZRaWqxj.png" group-title="СУНДУК ТВ",Киносвидание
+http://tmptv.sunduk.tv/CH21/index.m3u8
+#EXTINF:-1 tvg-id="Kinosemja.ru" tvg-name="Киносемья" tvg-logo="https://i.imgur.com/ML0TEYb.png" group-title="СУНДУК ТВ",Киносемья
+http://tmptv.sunduk.tv/CH25/index.m3u8
+#EXTINF:-1 tvg-id="Kinouzhas.ru" tvg-name="Киноужас" tvg-logo="https://i.imgur.com/mAcAAQF.png" group-title="СУНДУК ТВ",Киноужас HD
+http://tmptv.sunduk.tv/CH409/index.m3u8
+#EXTINF:-1 tvg-id="Komediynoe.ru" tvg-name="Комедийное" tvg-logo="https://i.imgur.com/cEKe8XC.png" group-title="СУНДУК ТВ",Комедийное HD
+http://tmptv.sunduk.tv/CH231/index.m3u8
+#EXTINF:-1 tvg-id="Lyubimoe.ru" tvg-name="Любимое" tvg-logo="https://i.imgur.com/qWK6WvG.png" group-title="СУНДУК ТВ",Любимое HD
+http://tmptv.sunduk.tv/CH717/index.m3u8
+#EXTINF:-1 tvg-id="NasheLubimoeKino.ru" tvg-name="Любимое Кино" tvg-logo="https://i.imgur.com/vBR6oX6.png" group-title="СУНДУК ТВ",Любимое кино
+http://tmptv.sunduk.tv/CH521/index.m3u8
+#EXTINF:-1 tvg-id="MirSeriala.ru" tvg-name="Мир Сериала" tvg-logo="https://i.imgur.com/uzj7wVp.png" group-title="СУНДУК ТВ",Мир сериала
+http://tmptv.sunduk.tv/CH451/index.m3u8
+#EXTINF:-1 tvg-id="Muzhskoekino.ru" tvg-name="Мужское кино" tvg-logo="https://i.imgur.com/8RN3tQC.png" group-title="СУНДУК ТВ",Мужское кино
+http://tmptv.sunduk.tv/CH3817/index.m3u8
+#EXTINF:-1 tvg-id="Muzhskoekino.ru" tvg-name="Мужское кино" tvg-logo="https://i.imgur.com/8RN3tQC.png" group-title="СУНДУК ТВ",Мужское кино HD
+http://tmptv.sunduk.tv/CH245/index.m3u8
+#EXTINF:-1 tvg-id="NST.ru" tvg-name="НСТ" tvg-logo="https://i.imgur.com/uv2yxa5.png" group-title="СУНДУК ТВ",НСТ
+http://tmptv.sunduk.tv/CH157/index.m3u8
+#EXTINF:-1 tvg-id="Nashe.ru" tvg-name="Наше" tvg-logo="https://i.imgur.com/KO8dhi9.png" group-title="СУНДУК ТВ",Наше HD
+http://tmptv.sunduk.tv/CH551/index.m3u8
+#EXTINF:-1 tvg-id="NasheNovoeKino.ru" tvg-name="Наше новое кино" tvg-logo="https://i.imgur.com/IOxIsPj.png" group-title="СУНДУК ТВ",Наше новое кино
+http://tmptv.sunduk.tv/CH61/index.m3u8
+#EXTINF:-1 tvg-id="Ostrosyuzhetnoye.ru" tvg-name="Остросюжетное" tvg-logo="https://i.imgur.com/xGIEXoa.png" group-title="СУНДУК ТВ",Остросюжетное HD
+http://tmptv.sunduk.tv/CH547/index.m3u8
+#EXTINF:-1 tvg-id="Premialnoe.ru" tvg-name="Премиальное" tvg-logo="https://i.imgur.com/ck4aLBP.png" group-title="СУНДУК ТВ",Премиальное HD
+http://tmptv.sunduk.tv/CH545/index.m3u8
+#EXTINF:-1 tvg-id="RodnoeKino.ru" tvg-name="Родное Кино" tvg-logo="https://i.imgur.com/H70LxoZ.png" group-title="СУНДУК ТВ",Родное кино
+http://tmptv.sunduk.tv/CH23/index.m3u8
+#EXTINF:-1 tvg-id="RusskiyDetektiv.ru" tvg-name="Русский детектив" tvg-logo="https://i.imgur.com/kaRKp2u.png" group-title="СУНДУК ТВ",Русский детектив
+http://tmptv.sunduk.tv/CH437/index.m3u8
+#EXTINF:-1 tvg-name="ТВ 21" tvg-logo="https://images.iptv.rt.ru/images/cjkbe9rir4ssk120mj1g.png" group-title="СУНДУК ТВ",ТВ 21
+http://tmptv.sunduk.tv/CH145/index.m3u8
+#EXTINF:-1 tvg-id="FeniksplusKino.ru" tvg-name="Феникс+ Кино" tvg-logo="https://i.imgur.com/JH3byQL.png" group-title="СУНДУК ТВ",Феникс+Кино
+http://tmptv.sunduk.tv/CH327/index.m3u8
+#EXTINF:-1 tvg-id="Shokiruyushchee.ru" tvg-name="Шокирующее" tvg-logo="https://i.imgur.com/UG63hZ0.png" group-title="СУНДУК ТВ",Шокирующее HD
+http://tmptv.sunduk.tv/CH229/index.m3u8
+#EXTINF:-1 tvg-id="VHSka.ru" tvg-name="VHS-ка" tvg-logo="https://i.imgur.com/C2377w9.png" group-title="СУНДУК ТВ",VHS-ка HD
+http://tmptv.sunduk.tv/CH5505/index.m3u8
+#EXTINF:-1 tvg-id="365daysTV.ru" tvg-name="365 дней ТВ" tvg-logo="https://i.imgur.com/NfnAiTR.png" group-title="СУНДУК ТВ",365 дней ТВ
+http://tmptv.sunduk.tv/CH333/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.ru" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="СУНДУК ТВ",Animal Planet
+http://tmptv.sunduk.tv/CH33/index.m3u8
+#EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" tvg-logo="https://i.imgur.com/iBx7K1M.png" group-title="СУНДУК ТВ",Da Vinci
+http://tmptv.sunduk.tv/CH205/index.m3u8
+#EXTINF:-1 tvg-id="TaynyGalaktiki.ru" tvg-name="Тайны Галактики" tvg-logo="https://i.imgur.com/fR3abSD.png" group-title="СУНДУК ТВ",Galaxy
+http://tmptv.sunduk.tv/CH445/index.m3u8
+#EXTINF:-1 tvg-id="History.ru" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="СУНДУК ТВ",History HD
+http://tmptv.sunduk.tv/CH303/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.ru" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="СУНДУК ТВ",National Geographic
+http://tmptv.sunduk.tv/CH53/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="Nat Geo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="СУНДУК ТВ",National Geographic Wild
+http://tmptv.sunduk.tv/CH83/index.m3u8
+#EXTINF:-1 tvg-id="RTGHD.ru" tvg-logo="https://i.imgur.com/jEkgahl.png" group-title="СУНДУК ТВ",RTG HD
+http://tmptv.sunduk.tv/CH179/index.m3u8
+#EXTINF:-1 tvg-id="TLC.ru" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="СУНДУК ТВ",TLC
+http://tmptv.sunduk.tv/CH41/index.m3u8
+#EXTINF:-1 tvg-id="TravelChannel.uk" tvg-logo="https://i.imgur.com/0GuAJ4W.png" group-title="СУНДУК ТВ",Travel Channel HD
+http://tmptv.sunduk.tv/CH305/index.m3u8
+#EXTINF:-1 tvg-id="TravelPlusAdventure.ru" tvg-name="Travel+Adventure" tvg-logo="https://i.imgur.com/AlpdXC4.png" group-title="СУНДУК ТВ",Travel+Adventure
+http://tmptv.sunduk.tv/CH273/index.m3u8
+#EXTINF:-1 tvg-id="vijuHistory.ru" tvg-name="Viju History" tvg-logo="https://i.imgur.com/FqWkeXb.png" group-title="СУНДУК ТВ",viju History
+http://tmptv.sunduk.tv/CH133/index.m3u8
+#EXTINF:-1 tvg-id="vijuNature.ru" tvg-name="Viju Nature" tvg-logo="https://i.imgur.com/8BPZ18l.png" group-title="СУНДУК ТВ",viju Nature
+http://tmptv.sunduk.tv/CH203/index.m3u8
+#EXTINF:-1 tvg-id="Vremya.ru" tvg-name="Время" tvg-logo="https://i.imgur.com/jZlj3ga.png" group-title="СУНДУК ТВ",Время
+http://tmptv.sunduk.tv/CH217/index.m3u8
+#EXTINF:-1 tvg-id="Doctor.ru" tvg-name="Доктор" tvg-logo="https://i.imgur.com/VNirxxn.png" group-title="СУНДУК ТВ",Доктор
+http://tmptv.sunduk.tv/CH101/index.m3u8
+#EXTINF:-1 tvg-id="Drive.ru" tvg-name="Драйв" tvg-logo="https://i.imgur.com/FnuwfSC.png" group-title="СУНДУК ТВ",Драйв
+http://tmptv.sunduk.tv/CH165/index.m3u8
+#EXTINF:-1 tvg-id="Zhivayapriroda.ru" tvg-name="Живая природа" tvg-logo="https://i.imgur.com/9lHQPdN.png" group-title="СУНДУК ТВ",Живая природа HD
+http://tmptv.sunduk.tv/CH497/index.m3u8
+#EXTINF:-1 tvg-id="ZdorovoeTV.ru" tvg-name="Здоровое ТВ" tvg-logo="https://i.imgur.com/jedtE5l.png" group-title="СУНДУК ТВ",Здоровое ТВ
+http://tmptv.sunduk.tv/CH169/index.m3u8
+#EXTINF:-1 tvg-id="ZooTV.ru" tvg-name="Зоо ТВ" tvg-logo="https://i.imgur.com/p7WzqGS.png" group-title="СУНДУК ТВ",Зоо ТВ
+http://tmptv.sunduk.tv/CH565/index.m3u8
+#EXTINF:-1 tvg-id="Istoriya.ru" tvg-name="История" tvg-logo="https://i.imgur.com/7fZXK7y.png" group-title="СУНДУК ТВ",История
+http://tmptv.sunduk.tv/CH423/index.m3u8
+#EXTINF:-1 tvg-id="Ktoestkto.ru" tvg-name="Кто есть кто" tvg-logo="https://i.imgur.com/jAsj6yl.png" group-title="СУНДУК ТВ",Кто есть кто
+http://tmptv.sunduk.tv/CH343/index.m3u8
+#EXTINF:-1 tvg-id="MoyaPlaneta.ru" tvg-name="Моя Планета" tvg-logo="https://i.imgur.com/D5d3lMJ.png" group-title="СУНДУК ТВ",Моя Планета
+http://tmptv.sunduk.tv/CH225/index.m3u8
+#EXTINF:-1 tvg-id="Nauka.ru" tvg-name="Наука" tvg-logo="https://i.imgur.com/ZZxzueO.png" group-title="СУНДУК ТВ",Наука
+http://tmptv.sunduk.tv/CH259/index.m3u8
+#EXTINF:-1 tvg-id="Nostalgia.ru" tvg-name="Ностальгия" tvg-logo="https://i.imgur.com/YBdBc0J.png" group-title="СУНДУК ТВ",Ностальгия
+http://tmptv.sunduk.tv/CH331/index.m3u8
+#EXTINF:-1 tvg-id="Priklyucheniya.ru" tvg-name="Приключения" tvg-logo="https://i.imgur.com/qQ6pPPQ.png" group-title="СУНДУК ТВ",Приключения HD
+http://tmptv.sunduk.tv/CH233/index.m3u8
+#EXTINF:-1 tvg-id="Psikhologiya.ru" tvg-name="Психология" tvg-logo="https://i.imgur.com/GsfedKS.png" group-title="СУНДУК ТВ",Психология
+http://tmptv.sunduk.tv/CH209/index.m3u8
+#EXTINF:-1 tvg-id="RussiaK.ru" tvg-name="Россия-К" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/512px-Russia-Cultura.svg.png" group-title="СУНДУК ТВ",Россия К
+http://tmptv.sunduk.tv/CH103/index.m3u8
+#EXTINF:-1 tvg-id="TopSecret.ru" tvg-name="Совершенно секретно" tvg-logo="https://i.imgur.com/HM4xy4G.png" group-title="СУНДУК ТВ",Совершенно секретно
+http://tmptv.sunduk.tv/CH357/index.m3u8
+#EXTINF:-1 tvg-id="Teleputeshestviya.ru" tvg-name="Телепутешествия" tvg-logo="https://i.imgur.com/eXJm1n3.png" group-title="СУНДУК ТВ",Телепутешествия
+http://tmptv.sunduk.tv/CH391/index.m3u8
+#EXTINF:-1 tvg-name="Точка РФ" tvg-logo="https://i.imgur.com/tKgmhxh.png" group-title="СУНДУК ТВ",Точка РФ HD
+http://tmptv.sunduk.tv/CH237/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.ru" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="СУНДУК ТВ",Eurosport 1
+http://tmptv.sunduk.tv/CH29/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="СУНДУК ТВ",Eurosport 2
+http://tmptv.sunduk.tv/CH75/index.m3u8
+#EXTINF:-1 tvg-id="KHL.ru" tvg-name="КХЛ" tvg-logo="https://i.imgur.com/RgdHdOV.png" group-title="СУНДУК ТВ",KHL
+http://tmptv.sunduk.tv/CH247/index.m3u8
+#EXTINF:-1 tvg-id="KHLPrime.ru" tvg-name="KHL Prime" tvg-logo="https://i.imgur.com/pwxT0ON.png" group-title="СУНДУК ТВ",KHL Prime HD
+http://tmptv.sunduk.tv/CH293/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusSport.ru" tvg-name="Viasat Sport" tvg-logo="https://i.imgur.com/fXESG0l.png" group-title="СУНДУК ТВ",viju+ Sport
+http://tmptv.sunduk.tv/CH131/index.m3u8
+#EXTINF:-1 tvg-id="BoksTV.ru" tvg-name="Бокс ТВ" tvg-logo="https://i.imgur.com/R1UjyfX.png" group-title="СУНДУК ТВ",Бокс ТВ
+http://tmptv.sunduk.tv/CH707/index.m3u8
+#EXTINF:-1 tvg-id="Match.ru" tvg-name="Матч!" tvg-logo="https://i.imgur.com/iKZvKyP.png" group-title="СУНДУК ТВ",Матч!
+http://tmptv.sunduk.tv/CH9/index.m3u8
+#EXTINF:-1 tvg-id="MatchArena.ru" tvg-name="Матч! Арена" tvg-logo="https://i.imgur.com/udTzwzu.png" group-title="СУНДУК ТВ",Матч! Арена
+http://tmptv.sunduk.tv/CH227/index.m3u8
+#EXTINF:-1 tvg-id="MatchBoets.ru" tvg-name="Матч! Боец" tvg-logo="https://i.imgur.com/DogOkA4.png" group-title="СУНДУК ТВ",Матч! Боец
+http://tmptv.sunduk.tv/CH51/index.m3u8
+#EXTINF:-1 tvg-id="MatchIgra.ru" tvg-name="Матч! Игра" tvg-logo="https://i.imgur.com/5XWpF19.png" group-title="СУНДУК ТВ",Матч! Игра
+http://tmptv.sunduk.tv/CH255/index.m3u8
+#EXTINF:-1 tvg-id="MatchPlaneta.ru" tvg-name="Матч! Планета" tvg-logo="https://i.imgur.com/Jv7RwGq.png" group-title="СУНДУК ТВ",Матч! Планета
+http://tmptv.sunduk.tv/CH27/index.m3u8
+#EXTINF:-1 tvg-id="MatchPremier.ru" tvg-name="Матч! Премьер" tvg-logo="https://i.imgur.com/GQPyHYK.png" group-title="СУНДУК ТВ",Матч! Премьер
+http://tmptv.sunduk.tv/CH63/index.m3u8
+#EXTINF:-1 tvg-id="MatchStrana.ru" tvg-name="Матч! Страна" tvg-logo="https://i.imgur.com/X02s2UE.png" group-title="СУНДУК ТВ",Матч! Страна
+http://tmptv.sunduk.tv/CH223/index.m3u8
+#EXTINF:-1 tvg-id="MatchFutbol1.ru" tvg-name="Матч! Футбол 1" tvg-logo="https://i.imgur.com/XS2BB02.png" group-title="СУНДУК ТВ",Матч! Футбол 1
+http://tmptv.sunduk.tv/CH95/index.m3u8
+#EXTINF:-1 tvg-id="MatchFutbol2.ru" tvg-name="Матч! Футбол 2" tvg-logo="https://i.imgur.com/WhdGfSo.png" group-title="СУНДУК ТВ",Матч! Футбол 2
+http://tmptv.sunduk.tv/CH329/index.m3u8
+#EXTINF:-1 tvg-id="MatchFutbol3.ru" tvg-name="Матч! Футбол 3" tvg-logo="https://i.imgur.com/P2ReH1u.png" group-title="СУНДУК ТВ",Матч! Футбол 3
+http://tmptv.sunduk.tv/CH407/index.m3u8
+#EXTINF:-1 tvg-id="RussianExtreme.ru" tvg-name="Русский Экстрим" tvg-logo="https://i.imgur.com/qjx6zZV.png" group-title="СУНДУК ТВ",Русский Экстрим HD
+http://tmptv.sunduk.tv/CH3849/index.m3u8
+#EXTINF:-1 tvg-id="Football.ru" tvg-name="Футбол" tvg-logo="https://i.imgur.com/pEuaZVx.png" group-title="СУНДУК ТВ",Футбол [720x576@25]
+http://tmptv.sunduk.tv/CH287/index.m3u8
+#EXTINF:-1 tvg-id="FoodTime.ru" tvg-name="Еда Премиум" tvg-logo="https://i.imgur.com/gxCYAwH.png" group-title="СУНДУК ТВ",Food time HD
+http://tmptv.sunduk.tv/CH235/index.m3u8
+#EXTINF:-1 tvg-id="Avto24.ru" tvg-name="Авто24" tvg-logo="https://i.imgur.com/GXSXmN2.png" group-title="СУНДУК ТВ",Авто 24
+http://tmptv.sunduk.tv/CH405/index.m3u8
+#EXTINF:-1 tvg-id="AutoPlus.ru" tvg-name="Авто Плюс" tvg-logo="https://i.imgur.com/sVc8cFt.png" group-title="СУНДУК ТВ",Авто плюс
+http://tmptv.sunduk.tv/CH49/index.m3u8
+#EXTINF:-1 tvg-id="Bober.ru" tvg-name="Бобёр" tvg-logo="https://i.imgur.com/clWWhB8.png" group-title="СУНДУК ТВ",Бобёр
+http://tmptv.sunduk.tv/CH579/index.m3u8
+#EXTINF:-1 tvg-id="DomashnieZhivotnye.ru" tvg-name="Домашние животные" tvg-logo="https://i.imgur.com/ISJzQGP.png" group-title="СУНДУК ТВ",Домашние животные
+http://tmptv.sunduk.tv/CH207/index.m3u8
+#EXTINF:-1 tvg-id="Eda.ru" tvg-name="Еда" tvg-logo="https://i.imgur.com/htmbgOX.png" group-title="СУНДУК ТВ",Еда
+http://tmptv.sunduk.tv/CH381/index.m3u8
+#EXTINF:-1 tvg-id="ZagorodnayaZhizn.ru" tvg-name="Загородная жизнь" tvg-logo="https://i.imgur.com/RoYd5pz.png" group-title="СУНДУК ТВ",Загородная жизнь
+http://tmptv.sunduk.tv/CH469/index.m3u8
+#EXTINF:-1 tvg-id="Zagorodnyy.ru" tvg-name="Загородный" tvg-logo="https://i.imgur.com/YGqO3Us.png" group-title="СУНДУК ТВ",Загородный
+http://tmptv.sunduk.tv/CH563/index.m3u8
+#EXTINF:-1 tvg-id="KukhnyaTV.ru" tvg-name="Кухня ТВ" tvg-logo="https://i.imgur.com/7jxZnuS.png" group-title="СУНДУК ТВ",Кухня ТВ
+http://tmptv.sunduk.tv/CH65/index.m3u8
+#EXTINF:-1 tvg-id="Oruzhie.ru" tvg-name="Оружие" tvg-logo="https://i.imgur.com/zQ9CFRO.png" group-title="СУНДУК ТВ",Оружие
+http://tmptv.sunduk.tv/CH543/index.m3u8
+#EXTINF:-1 tvg-id="Okhotairybalka.ru" tvg-name="Охота и рыбалка" tvg-logo="https://i.imgur.com/nZwBaeW.png" group-title="СУНДУК ТВ",Охота и Рыбалка
+http://tmptv.sunduk.tv/CH151/index.m3u8
+#EXTINF:-1 tvg-id="Rybolov.ru" tvg-name="Рыболов" tvg-logo="https://i.imgur.com/wJMTcFS.png" group-title="СУНДУК ТВ",Рыболов
+http://tmptv.sunduk.tv/CH389/index.m3u8
+#EXTINF:-1 tvg-id="Telecafe.ru" tvg-name="Телекафе" tvg-logo="https://i.imgur.com/D2p4GaB.png" group-title="СУНДУК ТВ",Телекафе
+http://tmptv.sunduk.tv/CH193/index.m3u8
+#EXTINF:-1 tvg-id="Usadba.ru" tvg-name="Усадьба" tvg-logo="https://i.imgur.com/mf13haG.png" group-title="СУНДУК ТВ",Усадьба
+http://tmptv.sunduk.tv/CH137/index.m3u8
+#EXTINF:-1 tvg-id="BRIDGEDeluxe.ru" tvg-name="Bridge TV Deluxe" tvg-logo="https://i.imgur.com/EazL8w7.png" group-title="СУНДУК ТВ",Bridge TV Deluxe
+http://tmptv.sunduk.tv/CH257/index.m3u8
+#EXTINF:-1 tvg-id="EuropaPlusTV.ru" tvg-name="Europa Plus TV" tvg-logo="https://i.imgur.com/GLc4qrc.png" group-title="СУНДУК ТВ",Europa Plus TV
+http://tmptv.sunduk.tv/CH267/index.m3u8
+#EXTINF:-1 tvg-id="FonMusic.ru" tvg-name="TNT Music" tvg-logo="https://i.imgur.com/tXABQDE.png" group-title="СУНДУК ТВ",Fon Music
+http://tmptv.sunduk.tv/CH121/index.m3u8
+#EXTINF:-1 tvg-id="MCMTop.ru" tvg-name="MCM Top" tvg-logo="https://i.imgur.com/EVtWQLd.png" group-title="СУНДУК ТВ",MCM Top
+http://tmptv.sunduk.tv/CH77/index.m3u8
+#EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="Mezzo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/512px-Mezzo_Logo.svg.png" group-title="СУНДУК ТВ",Mezzo
+http://tmptv.sunduk.tv/CH97/index.m3u8
+#EXTINF:-1 tvg-id="MusicBoxGold.ru" tvg-name="MusicBox Gold" tvg-logo="https://i.imgur.com/iWJdeD1.png" group-title="СУНДУК ТВ",MusicBox Gold
+http://tmptv.sunduk.tv/CH81/index.m3u8
+#EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Муз-ТВ" tvg-logo="https://i.imgur.com/BtqrHmz.png" group-title="СУНДУК ТВ",Муз-ТВ
+http://tmptv.sunduk.tv/CH19/index.m3u8
+#EXTINF:-1 tvg-id="MuzykaPervogo.ru" tvg-name="Музыка Первого" tvg-logo="https://i.imgur.com/sJ2xxLy.png" group-title="СУНДУК ТВ",Музыка Первого
+http://tmptv.sunduk.tv/CH221/index.m3u8
+#EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Шансон ТВ" tvg-logo="https://i.imgur.com/NBWyJJQ.png" group-title="СУНДУК ТВ",Шансон ТВ
+http://tmptv.sunduk.tv/CH115/index.m3u8
+#EXTINF:-1 tvg-id="Domashniy.ru" tvg-name="Dомашний" tvg-logo="https://i.imgur.com/XVRwgom.png" group-title="СУНДУК ТВ",Домашний
+http://tmptv.sunduk.tv/CH195/index.m3u8
+#EXTINF:-1 tvg-id="2x2.ru" tvg-name="Дважды два" tvg-logo="https://i.imgur.com/fhQFLEl.png" group-title="СУНДУК ТВ",Канал 2x2
+http://tmptv.sunduk.tv/CH171/index.m3u8
+#EXTINF:-1 tvg-id="STSLove.ru" tvg-name="СТС Love" tvg-logo="https://i.imgur.com/YBVZoDd.png" group-title="СУНДУК ТВ",Unknown Channel
+http://tmptv.sunduk.tv/CH441/index.m3u8
+#EXTINF:-1 tvg-id="Sarafan.ru" tvg-name="Сарафан" tvg-logo="https://i.imgur.com/AgX6qoz.png" group-title="СУНДУК ТВ",Сарафан
+http://tmptv.sunduk.tv/CH199/index.m3u8
+#EXTINF:-1 tvg-id="TV3.ru" tvg-name="ТВ-3" tvg-logo="https://i.imgur.com/JLAvq8O.png" group-title="СУНДУК ТВ",ТВ 3
+http://tmptv.sunduk.tv/CH113/index.m3u8
+#EXTINF:-1 tvg-id="TNT4.ru" tvg-name="ТНТ4" tvg-logo="https://i.imgur.com/4GiD9xN.png" group-title="СУНДУК ТВ",ТНТ4
+http://tmptv.sunduk.tv/CH71/index.m3u8
+#EXTINF:-1 tvg-id="Che.ru" tvg-name="Че!" tvg-logo="https://i.imgur.com/ZOcDGpB.png" group-title="СУНДУК ТВ",Че!
+http://tmptv.sunduk.tv/CH185/index.m3u8
+#EXTINF:-1 tvg-id="Soyuz.ru" tvg-name="Союз" tvg-logo="https://i.imgur.com/w3OewHc.png" group-title="СУНДУК ТВ",Союз
+http://tmptv.sunduk.tv/CH119/index.m3u8
+#EXTINF:-1 tvg-id="Spas.ru" tvg-name="Спас" tvg-logo="https://i.imgur.com/yY39nMg.png" group-title="СУНДУК ТВ",Спас
+http://tmptv.sunduk.tv/CH105/index.m3u8
+#EXTINF:-1 tvg-id="Belarus24.by" tvg-name="Беларусь 24" tvg-logo="https://i.imgur.com/iVIlgrj.png" group-title="СУНДУК ТВ",Беларусь 24
+http://tmptv.sunduk.tv/CH519/index.m3u8
+#EXTINF:-1 tvg-id="Arsenal.ru" tvg-name="Арсенал" tvg-logo="https://i.imgur.com/DBpVeb0.png" group-title="СУНДУК ТВ",Арсенал HD
+http://tmptv.sunduk.tv/CH567/index.m3u8
+#EXTINF:-1 tvg-id="VmesteRF.ru" tvg-name="Вместе-РФ" tvg-logo="https://i.imgur.com/KI1qZNc.png" group-title="СУНДУК ТВ",Вместе РФ
+http://tmptv.sunduk.tv/CH495/index.m3u8
+#EXTINF:-1 tvg-id="VoprosyiOtvety.ru" tvg-name="Вопросы и ответы" tvg-logo="https://i.imgur.com/yjETxk1.png" group-title="СУНДУК ТВ",Вопросы и Ответы
+http://tmptv.sunduk.tv/CH211/index.m3u8
+#EXTINF:-1 tvg-id="Konniymir.ru" tvg-name="Конный мир" tvg-logo="https://i.imgur.com/X6otbK0.png" group-title="СУНДУК ТВ",Конный мир HD
+http://tmptv.sunduk.tv/CH577/index.m3u8
+#EXTINF:-1 tvg-id="NTVMir.ru" tvg-name="НТВ Мир" tvg-logo="https://i.imgur.com/pUcV46F.png" group-title="СУНДУК ТВ",НТВ-Мир
+http://tmptv.sunduk.tv/CH761/index.m3u8
+#EXTINF:-1 tvg-id="OTR.ru" tvg-name="Общественное Телевидение России" tvg-logo="https://i.imgur.com/VaWlnjZ.png" group-title="СУНДУК ТВ",ОТР
+http://tmptv.sunduk.tv/CH317/index.m3u8
+#EXTINF:-1 tvg-id="Pervyyvegetarianskiy.ru" tvg-name="Первый вегетарианский" tvg-logo="https://i.imgur.com/lvKlOkm.png" group-title="СУНДУК ТВ",Первый вегетарианский
+http://tmptv.sunduk.tv/CH509/index.m3u8
+#EXTINF:-1 tvg-id="PervyyKosmicheskiy.ru" tvg-name="Первый Космический" tvg-logo="https://i.imgur.com/N1Ze5IE.png" group-title="СУНДУК ТВ",Первый космический HD
+http://tmptv.sunduk.tv/CH557/index.m3u8
+#EXTINF:-1 tvg-id="Retro.ru" tvg-name="Ретро" tvg-logo="https://i.imgur.com/p21co1w.png" group-title="СУНДУК ТВ",Ретро ТВ
+http://tmptv.sunduk.tv/CH149/index.m3u8
+#EXTINF:-1 tvg-id="Teatr.ru" tvg-name="Театр" tvg-logo="https://i.imgur.com/nc2ijCH.png" group-title="СУНДУК ТВ",Театр
+http://tmptv.sunduk.tv/CH505/index.m3u8
+#EXTINF:-1 tvg-id="Uspeh.ru" tvg-name="Успех" tvg-logo="https://i.imgur.com/o3K1h5Q.png" group-title="СУНДУК ТВ",Успех
+http://tmptv.sunduk.tv/CH337/index.m3u8
+
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-id="amedia1"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/AMEDIA 1.png" , AMEDIA 1 HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031869&extension=ts&play_token=nT607hd0HO
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-id="amedia2"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/AMEDIA 2.png" , AMEDIA 2
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031870&extension=ts&play_token=9xRnwu3OcT
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-id="amedia-premium"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/Amedia Premium.png" , Amedia Premium HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031871&extension=ts&play_token=LZtC4ZNLsO
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-id="amedia-hit"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/AMEDIA HIT.png" , AMEDIA HIT HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031872&extension=ts&play_token=kYC3hNIok2
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/REN TV.png" , REN TV
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031873&extension=ts&play_token=cOkJjPH4lG
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/RUSSIA 1.png" , RUSSIA 1 HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031874&extension=ts&play_token=IWAyv0NJXl
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/ROSSIYA 24.png" , ROSSIYA 24
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031894&extension=ts&play_token=4HM2WRg3KD
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-id="europa-plus-tv"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/EUROPA PLUS TV.png" , EUROPA PLUS TV
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031875&extension=ts&play_token=IrqSfyjNZk
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/KVN TV.png" , KVN TV
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031876&extension=ts&play_token=nmPxc0Svka
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/LA MINOR.png" , LA MINOR
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031877&extension=ts&play_token=NF0s7NoDei
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/MNOGO TV.png" , MNOGO TV
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031878&extension=ts&play_token=xqDiYDaoj6
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/NTV.png" , NTV HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031879&extension=ts&play_token=oS60crBeHd
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-id="rtg-tv"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/RTG TV.png" , RTG TV
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031880&extension=ts&play_token=uyUStXd9H8
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/RTR PLANETA.png" , RTR PLANETA
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031881&extension=ts&play_token=pmlmb2SZFY
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-id="russia-today"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/RT.png" , RT HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031882&extension=ts&play_token=c9iWM9H0ek
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/T24.png" , T24
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031883&extension=ts&play_token=7GNDacRkNj
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/TNT.png" , TNT HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031884&extension=ts&play_token=KzFLmLTD6B
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/TV 3.png" , TV 3
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031885&extension=ts&play_token=5YrvJQva0N
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/ZEE TV RUSSIA.png" , ZEE TV RUSSIA
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031886&extension=ts&play_token=ax8jN2sMrC
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/5 KANAL.png" , 5 KANAL
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031963&extension=ts&play_token=tsOtgbkxjQ
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/MATCH! FOOTBALL 1.png" , MATCH! FOOTBALL 1 HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031938&extension=ts&play_token=kZurZHR45d
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/MATCH! FOOTBALL 2.png" , MATCH! FOOTBALL 2 HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031939&extension=ts&play_token=rKWDQu5PEJ
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/MATCH! FOOTBALL 3.png" , MATCH! FOOTBALL 3 HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031940&extension=ts&play_token=z8jFI5XLuT
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/MATCH TV.png" , MATCH TV HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031937&extension=ts&play_token=8noNyxA2DA
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/MATCH PREMYER.png" , MATCH PREMYER HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031935&extension=ts&play_token=xTm8ECBGAv
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/MATCH! ARENA.png" , MATCH! ARENA
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031936&extension=ts&play_token=JTY1t4YBNO
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/MATCH! GAME.png" , MATCH! GAME HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031941&extension=ts&play_token=kleGhxcW0M
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/ZVEZDATV.png" , ZVEZDATV
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031943&extension=ts&play_token=YsXiASl6Bn
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/ZIVAYA PRIRODA.png" , ZIVAYA PRIRODA
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031944&extension=ts&play_token=5XSbLZWV6d
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/ZIVAYA PLANETA.png" , ZIVAYA PLANETA
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031945&extension=ts&play_token=DXBVlzssdb
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/VREMYA.png" , VREMYA
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031946&extension=ts&play_token=YghR8BCt8q
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-id="viasat-nature"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/VIASAT NATURE.png" , VIASAT NATURE
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031925&extension=ts&play_token=Ye61auqwFd
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-id="viasat-history"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/VIASAT HISTORY.png" , VIASAT HISTORY
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031924&extension=ts&play_token=JVMejDPg3Z
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/TVC.png" , TVC
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031970&extension=ts&play_token=vERyW6jeHr
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-id="tv1000-russkoe-kino"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/TV1000 РУССКОЕ.png" , TV1000 РУССКОЕ КИНО
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031905&extension=ts&play_token=IfVzZ2Ptjw
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/TV1000 РУССКОЕ.png" , TV1000 РУССКОЕ HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031904&extension=ts&play_token=1mEJm73Gsd
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-id="tv1000-action"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/TV1000 ACTION.png" , TV1000 ACTION HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031903&extension=ts&play_token=hpufJueZpU
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-id="tv1000"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/TV1000.png" , TV1000
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031902&extension=ts&play_token=k2drb4X9w2
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-id="tv1000-premium"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/TV 1000 PREMIUM.png" , TV 1000 PREMIUM HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031912&extension=ts&play_token=tuCPhO8J9E
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/TV 1000 MEGAHIT.png" , TV 1000 MEGAHIT HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031911&extension=ts&play_token=hQUMdXJi4U
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-id="tv1000"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/TV1000.png" , TV 1000 HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031909&extension=ts&play_token=RVjTeYvP36
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/TRAVEL.png" , TRAVEL HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031947&extension=ts&play_token=qVJlrvct2C
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-id="tlc"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/TLC.png" , TLC
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031913&extension=ts&play_token=GU5JANZnSo
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/SOVERSHENNO SEKRETNO.png" , SOVERSHENNO SEKRETNO
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031950&extension=ts&play_token=8Ug1nk7e8u
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/SARAFAN.png" , SARAFAN
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031949&extension=ts&play_token=OXK83aQh8K
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/RUSSKIY ROMAN.png" , RUSSKIY ROMAN HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031901&extension=ts&play_token=jzj4s1fNxE
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/RUSSKIY ILLYUZION.png" , RUSSKIY ILLYUZION
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031900&extension=ts&play_token=INfEHd5tGo
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/RUSSKIY EKSTRIM.png" , RUSSKIY EKSTRIM HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031899&extension=ts&play_token=v5SCCtkQSZ
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/RUSSKIY DETEKTIV.png" , RUSSKIY DETEKTIV
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031898&extension=ts&play_token=IcXJhiWFZv
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/RUSSKIY BESTSELLER.png" , RUSSKIY BESTSELLER
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031897&extension=ts&play_token=FABbqSKsaC
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/RU TV.png" , RU TV
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031895&extension=ts&play_token=jmHuuHEH1y
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/RODNOE KINO.png" , RODNOE KINO
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031918&extension=ts&play_token=M3r70pzT8g
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/RBK TV.png" , RBK TV
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031942&extension=ts&play_token=WAKE9eLF07
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/POBEDA.png" , POBEDA HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031910&extension=ts&play_token=aGtjVCMjxJ
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/PERVYJ KANAL.png" , PERVYJ KANAL HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031906&extension=ts&play_token=LrEFF8fwqE
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-id="paramount-comedy"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/PARAMOUNT COMEDY.png" , PARAMOUNT COMEDY HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031915&extension=ts&play_token=VSWfpko3Bz
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-id="paramount-channel"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/PARAMOUNT CHANNEL.png" , PARAMOUNT CHANNEL HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031914&extension=ts&play_token=zd8lsN7ZQi
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/OHOTNIK I RYBOLOV.png" , OHOTNIK I RYBOLOV
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031952&extension=ts&play_token=Vy6S94YOgC
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/OHOTA I RYBALKA.png" , OHOTA I RYBALKA
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031951&extension=ts&play_token=LoGl83ABVo
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-id="ocean-tv"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/OCEAN TV.png" , OCEAN TV
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031955&extension=ts&play_token=NhVYSqKvX2
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-id="nickelodeon-ru"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/NICKELODEON.png" , NICKELODEON
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031916&extension=ts&play_token=25DtxwmFyD
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/NAUKA 2.0.png" , NAUKA 2.0
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031956&extension=ts&play_token=jYLmJLxElL
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-id="nat-geo-wild"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/NAT GEO WILD.png" , NAT GEO WILD HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031927&extension=ts&play_token=hkvaNbx32I
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/NAT GEO.png" , NAT GEO
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031926&extension=ts&play_token=7ux7vcDkXH
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/NASHE NOVOE KINO.png" , NASHE NOVOE KINO
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031893&extension=ts&play_token=ZFFHv45yRw
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/MUZYKA PERVOGO.png" , MUZYKA PERVOGO
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031892&extension=ts&play_token=R1W8aBaXc1
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/MUSIC BOX.png" , MUSIC BOX
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031917&extension=ts&play_token=EB9iI1ycoT
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/MULYT.png" , MULYT
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031891&extension=ts&play_token=yhZfamn3Mj
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/MTV RUSSIA.png" , MTV RUSSIA HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031922&extension=ts&play_token=faycaDZtlH
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/MTV.png" , MTV HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031923&extension=ts&play_token=7dxOiQr1AU
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/KINOSERIYA.png" , KINOSERIYA HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031921&extension=ts&play_token=yVXWmkDiwu
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/KINOPREMIERA.png" , KINOPREMIERA HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031920&extension=ts&play_token=UARhXgF0Y4
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/KINOHIT.png" , KINOHIT
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031890&extension=ts&play_token=vDRKElztl0
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/KHL TV.png" , KHL TV FHD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031889&extension=ts&play_token=19ggilx4p3
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/ISTORIA.png" , ISTORIA
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031957&extension=ts&play_token=H0a7zIzdfT
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/HOME.png" , HOME
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031888&extension=ts&play_token=llL19BsclZ
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-id="history-ru"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/HISTORY.png" , HISTORY HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031958&extension=ts&play_token=TR5jMjlUQI
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/GLASAMI TURISTA.png" , GLASAMI TURISTA
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031959&extension=ts&play_token=UJcvxzJkah
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-id="foxlife"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/FOX LIFE.png" , FOX LIFE
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031908&extension=ts&play_token=5K3vSyTkig
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-id="fox"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/FOX.png" , FOX HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031907&extension=ts&play_token=nOnHYRd22q
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/EVRO KINO.png" , EVRO KINO
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031887&extension=ts&play_token=5hfOvJCGX5
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/BOKS TV.png" , BOKS TV
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031948&extension=ts&play_token=9CRVli1LTu
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-id="eurosport2"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/EUROSPORT 2.png" , EUROSPORT 2 HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031934&extension=ts&play_token=Y16rM40tZp
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-id="eurosport1"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/EUROSPORT 1.png" , EUROSPORT 1 HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031933&extension=ts&play_token=aT1OqzDL4F
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/DOM KINO.png" , DOM KINO
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031896&extension=ts&play_token=MvHwYFSus7
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/DOM KINO PREMIUM.png" , DOM KINO PREMIUM HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031919&extension=ts&play_token=lEnyaFWDmp
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-id="discovery-science"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/DISCOVERY SCIENCE.png" , DISCOVERY SCIENCE HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031931&extension=ts&play_token=fBasXqwhr9
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/DISCOVERY ID EXTRA.png" , DISCOVERY ID EXTRA HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031929&extension=ts&play_token=iC8tgIGkbS
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/DISCOVERY DTX.png" , DISCOVERY DTX HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031930&extension=ts&play_token=ie5cWAuwZA
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-id="discovery-channel"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/DISCOVERY CHANNEL.png" , DISCOVERY CHANNEL HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031928&extension=ts&play_token=aoAkuxf4sh
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/DIKAYA RYBALKA.png" , DIKAYA RYBALKA HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031954&extension=ts&play_token=i1Aa0NoxV7
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/DIKAYA OKHOTA.png" , DIKAYA OKHOTA HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031953&extension=ts&play_token=p5wQI9CZlm
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-id="animal-planet-eu"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/ANIMAL PLANET.png" , ANIMAL PLANET HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031932&extension=ts&play_token=mpLPalhse0
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/365 DENI.png" , 365 DENI
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031960&extension=ts&play_token=pt2I7JAdkX
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/DOMASHNY.png" , DOMASHNY
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031962&extension=ts&play_token=8F5vv3etxi
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/CTC.png" , CTC
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031969&extension=ts&play_token=OE10MFG0iP
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/BELARUS 24.png" , BELARUS 24
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031968&extension=ts&play_token=PnUcIBZ9Xq
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/BELARUS 1.png" , BELARUS 1
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031964&extension=ts&play_token=M4UZSXsaNp
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/BELARUS 2.png" , BELARUS 2
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031965&extension=ts&play_token=iiRbxBkyIX
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/BELARUS 3.png" , BELARUS 3
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031966&extension=ts&play_token=SJMno56AGs
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/BELARUS 5.png" , BELARUS 5
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031967&extension=ts&play_token=A6MluamR7e
+#EXTINF:-1  group-title="Line.tivi-one ✨"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/DOZD.png" , DOZD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031961&extension=ts&play_token=rNqEmDdJf0
 
 #EXTINF:-1 group-title="Сириус" tvg-logo="../Channel/Logo/Звезда.png",Звезда
 http://31.131.141.195:8000/play/2070/index.m3u8
